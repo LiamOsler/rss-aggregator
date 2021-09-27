@@ -1,0 +1,12 @@
+.rss-item img{
+    max-width: 100%;
+    height: auto;
+  }
+
+.rss-item{
+    height: fit-content;
+}
+
+.card{
+    padding: 1em;
+}
