@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="viewRSS.xsl"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+<channel rdf:about="https://novascotia.ca/news/">
+	<title>Government of Nova Scotia News Releases</title>
+	<link>https://novascotia.ca/news/</link>
+	<description>Press releases from the Government of Nova Scotia. Distributed by Communications Nova Scotia.</description>
+	<dc:publisher>Government of Nova Scotia</dc:publisher>
+	<dc:creator>Communications Nova Scotia</dc:creator>
+	<dc:rights>Crown copyright © 2021, Province of Nova Scotia, all rights reserved.</dc:rights>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+	<sy:updateBase>1998-01-01T08:00-04:00</sy:updateBase>
+	<image rdf:resource="https://novascotia.ca/cmns/images/rss_logo.png"/>
+	<items>
+		<rdf:Seq>
+			<rdf:li rdf:resource="https://novascotia.ca/news/details.asp?id=20210927006"/>
+			<rdf:li rdf:resource="https://novascotia.ca/news/details.asp?id=20210927005"/>
+			<rdf:li rdf:resource="https://novascotia.ca/news/details.asp?id=20210927004"/>
+			<rdf:li rdf:resource="https://novascotia.ca/news/details.asp?id=20210927003"/>
+			<rdf:li rdf:resource="https://novascotia.ca/news/details.asp?id=20210927002"/>
+			<rdf:li rdf:resource="https://novascotia.ca/news/details.asp?id=20210927001"/>
+			<rdf:li rdf:resource="https://novascotia.ca/news/details.asp?id=20210924007"/>
+			<rdf:li rdf:resource="https://novascotia.ca/news/details.asp?id=20210924006"/>
+			<rdf:li rdf:resource="https://novascotia.ca/news/details.asp?id=20210924005"/>
+			<rdf:li rdf:resource="https://novascotia.ca/news/details.asp?id=20210924004"/>
+		</rdf:Seq>
+	</items>
+</channel>
+<image rdf:about="https://novascotia.ca/cmns/images/rss_logo.png">
+<title>Government of Nova Scotia News Releases</title>
+<url>https://novascotia.ca/cmns/images/rss_logo.png</url>
+<link>https://novascotia.ca/news/</link>
+</image>
+<item rdf:about="https://novascotia.ca/news/release/?id=20210927006" xml:lang="en">
+	<title>Un décès, 83 nouveaux cas de COVID-19, 46 cas résolus</title>
+	<description>COVID - 19 / Health and Wellness -- REMARQUE : La Nouvelle-Écosse commencera à signaler le nombre d'écoles où il y a une exposition possible au virus chaque jour à compter de demain, le 28 septembre.
+Aujourd'hui 27 septembre, la Nouvelle-Écosse annonce un décès lié à la COVID-19. Un octogénaire est décédé dans le secteur du centre. </description>
+	<link>https://novascotia.ca/news/release/?id=20210927006</link>
+	<dc:date>2021-09-27T15:44:00-03:00</dc:date>
+	<dc:creator>COVID - 19 / Health and Wellness</dc:creator>
+</item>
+<item rdf:about="https://novascotia.ca/news/release/?id=20210927005" xml:lang="en">
+	<title>One Death, 83 New Cases of COVID-19, 46 Recoveries</title>
+	<description>COVID - 19 / Health and Wellness -- NOTE: Nova Scotia will begin reporting the number of schools with cases of COVID-19 daily, starting tomorrow, Sept. 28
+Today, Sept. 27, Nova Scotia is reporting one death related to COVID-19. A man in his 80s in Central Zone has died. </description>
+	<link>https://novascotia.ca/news/release/?id=20210927005</link>
+	<dc:date>2021-09-27T15:43:00-03:00</dc:date>
+	<dc:creator>COVID - 19 / Health and Wellness</dc:creator>
+</item>
+<item rdf:about="https://novascotia.ca/news/release/?id=20210927004" xml:lang="en">
+	<title>Investment Supports Efforts to Attract Newcomers and Build Nova Scotia’s Economy</title>
+	<description>Communities, Culture, Tourism and Heritage / Labour, Skills and Immigration -- A $2.5-million marketing investment will support new provincial immigration and migration targets by helping Nova Scotia attract newcomers from across Canada and around the globe.</description>
+	<link>https://novascotia.ca/news/release/?id=20210927004</link>
+	<dc:date>2021-09-27T12:04:00-03:00</dc:date>
+	<dc:creator>Communities, Culture, Tourism and Heritage / Labour, Skills and Immigration</dc:creator>
+</item>
+<item rdf:about="https://novascotia.ca/news/release/?id=20210927003" xml:lang="en">
+	<title>Government Invests in Road and Rink Improvements</title>
+	<description>Communities, Culture, Tourism and Heritage / Public Works -- Government is investing $33.5 million in three programs to improve roads and rinks in Nova Scotia. </description>
+	<link>https://novascotia.ca/news/release/?id=20210927003</link>
+	<dc:date>2021-09-27T11:12:00-03:00</dc:date>
+	<dc:creator>Communities, Culture, Tourism and Heritage / Public Works</dc:creator>
+</item>
+<item rdf:about="https://novascotia.ca/news/release/?id=20210927002" xml:lang="en">
+	<title>Premier’s Statement on Truth and Reconciliation Week</title>
+	<description>Premier's Office -- NOTE: The following is a statement from Premier Tim Houston
+Kwe. Teluisi (hello, my name is) Premier Tim Houston.</description>
+	<link>https://novascotia.ca/news/release/?id=20210927002</link>
+	<dc:date>2021-09-27T10:30:00-03:00</dc:date>
+	<dc:creator>Premier's Office</dc:creator>
+</item>
+<item rdf:about="https://novascotia.ca/news/release/?id=20210927001" xml:lang="en">
+	<title>Paramedics Recognized on Ninth Annual Medic Monday</title>
+	<description>Health and Wellness -- Today, Sept. 27, is the ninth annual Medic Monday in Nova Scotia. It is a day to celebrate the 1,200 dedicated paramedics who provide highly skilled care to Nova Scotians every day.</description>
+	<link>https://novascotia.ca/news/release/?id=20210927001</link>
+	<dc:date>2021-09-27T08:31:00-03:00</dc:date>
+	<dc:creator>Health and Wellness</dc:creator>
+</item>
+<item rdf:about="https://novascotia.ca/news/release/?id=20210924007" xml:lang="en">
+	<title>First Session of the 64th General Assembly Resumes Oct. 12</title>
+	<description>Speaker's Office -- The first session of the 64th General Assembly will resume at 1 p.m. on Tuesday, Oct. 12 when the Lieutenant-Governor of Nova Scotia delivers the speech from the throne.</description>
+	<link>https://novascotia.ca/news/release/?id=20210924007</link>
+	<dc:date>2021-09-24T14:11:00-03:00</dc:date>
+	<dc:creator>Speaker's Office</dc:creator>
+</item>
+<item rdf:about="https://novascotia.ca/news/release/?id=20210924006" xml:lang="en">
+	<title>More Support for Communities Across Nova Scotia</title>
+	<description>Municipal Affairs and Housing  -- Municipalities will receive an additional $32 million from the province to help pay for crucial services for Nova Scotians.</description>
+	<link>https://novascotia.ca/news/release/?id=20210924006</link>
+	<dc:date>2021-09-24T14:04:00-03:00</dc:date>
+	<dc:creator>Municipal Affairs and Housing </dc:creator>
+</item>
+<item rdf:about="https://novascotia.ca/news/release/?id=20210924005" xml:lang="en">
+	<title>Weekly Traffic Advisories</title>
+	<description>Public Works -- NEW WORK</description>
+	<link>https://novascotia.ca/news/release/?id=20210924005</link>
+	<dc:date>2021-09-24T13:46:00-03:00</dc:date>
+	<dc:creator>Public Works</dc:creator>
+</item>
+<item rdf:about="https://novascotia.ca/news/release/?id=20210924004" xml:lang="en">
+	<title>34 nouveaux cas de COVID-19, 12 cas résolus</title>
+	<description>COVID - 19 / Health and Wellness -- REMARQUE : Le gouvernement de la Nouvelle-Écosse ne publie pas de communiqués sur la COVID-19 et ne fait pas la mise à jour du tableau de bord sur la COVID-19 pendant la fin de semaine. La mise à jour du lundi inclura les données de la fin de semaine.
+Aujourd'hui 24 septembre, la Nouvelle-Écosse signale 34 nouveaux cas de COVID-19 et 12 rétablissements.</description>
+	<link>https://novascotia.ca/news/release/?id=20210924004</link>
+	<dc:date>2021-09-24T13:21:00-03:00</dc:date>
+	<dc:creator>COVID - 19 / Health and Wellness</dc:creator>
+</item>
+</rdf:RDF>
