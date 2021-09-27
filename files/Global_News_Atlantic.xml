@@ -6,7 +6,7 @@
 	<atom:link href="https://globalnews.ca/halifax/feed/" rel="self" type="application/rss+xml"/>
 	<link>https://globalnews.ca</link>
 	<description/>
-	<lastBuildDate>Mon, 27 Sep 2021 18:48:37 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Sep 2021 19:28:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -14,6 +14,68 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 <site xmlns="com-wordpress:feed-additions:1">176892389</site>	<item>
+		<title>Nova Scotia reports 96th COVID-related death as active case count pushes past 200</title>
+		<link>https://globalnews.ca/news/8224494/ns-covid-19-update-sept-27-2021/</link>
+					<comments>https://globalnews.ca/news/8224494/ns-covid-19-update-sept-27-2021/#respond</comments>
+		
+		<dc:creator><![CDATA[Rebecca Lau]]></dc:creator>
+		<pubDate>Mon, 27 Sep 2021 19:28:09 +0000</pubDate>
+				<category><![CDATA[Health]]></category>
+		<category><![CDATA[COVID]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Nova Scotia COVID-19]]></category>
+		<category><![CDATA[NS coronavirus]]></category>
+		<category><![CDATA[NS COVID]]></category>
+		<category><![CDATA[NS COVID-19]]></category>
+		<category><![CDATA[NS COVID-19 cases]]></category>
+		<guid isPermaLink="false">https://globalnews.ca/?p=8224494</guid>
+
+					<description><![CDATA[A man in his 80s in Central Zone has died.]]></description>
+										<content:encoded><![CDATA[A man in his 80s in Central Zone has died.]]></content:encoded>
+					
+					<wfw:commentRss>https://globalnews.ca/news/8224494/ns-covid-19-update-sept-27-2021/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8224494</post-id><enclosure url="https://globalnews.ca/wp-content/uploads/2020/07/gmh12372481.jpg?quality=85&amp;strip=all&amp;w=720&amp;h=480&amp;crop=1" length="780000" type="image/jpeg"/>
+		<media:thumbnail url="https://globalnews.ca/wp-content/uploads/2020/07/gmh12372481.jpg?quality=85&amp;strip=all"/>
+		<media:content url="https://globalnews.ca/wp-content/uploads/2020/07/gmh12372481.jpg?quality=85&amp;strip=all" medium="image">
+			<media:title type="html">GMH12372481.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>N.S. parents compiling own list of COVID-19 school cases</title>
+		<link>https://globalnews.ca/news/8223860/nova-scotia-parents-compile-covid-school-cases/</link>
+					<comments>https://globalnews.ca/news/8223860/nova-scotia-parents-compile-covid-school-cases/#respond</comments>
+		
+		<dc:creator><![CDATA[Rebecca Lau]]></dc:creator>
+		<pubDate>Mon, 27 Sep 2021 19:18:32 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[COVID-19 schools]]></category>
+		<category><![CDATA[COVID-19 schools NS]]></category>
+		<category><![CDATA[Nova Scotia COVID-19 schools]]></category>
+		<category><![CDATA[Nova Scotia health]]></category>
+		<category><![CDATA[Nova Scotia Parents for Public Education]]></category>
+		<category><![CDATA[NS COVID-19]]></category>
+		<category><![CDATA[NS COVID-19 schools]]></category>
+		<guid isPermaLink="false">https://globalnews.ca/?p=8223860</guid>
+
+					<description><![CDATA['We've been told to be diligent with COVID efforts for a year and a half. And now all of a sudden, it seems like COVID isn't a concern anymore," one parent said. ]]></description>
+										<content:encoded><![CDATA['We've been told to be diligent with COVID efforts for a year and a half. And now all of a sudden, it seems like COVID isn't a concern anymore," one parent said. ]]></content:encoded>
+					
+					<wfw:commentRss>https://globalnews.ca/news/8223860/nova-scotia-parents-compile-covid-school-cases/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8223860</post-id><enclosure url="https://globalnews.ca/wp-content/uploads/2020/06/23137165.jpg?quality=85&amp;strip=all&amp;w=720&amp;h=480&amp;crop=1" length="91746000" type="image/jpeg"/>
+		<media:thumbnail url="https://globalnews.ca/wp-content/uploads/2020/06/23137165.jpg?quality=85&amp;strip=all"/>
+		<media:content url="https://globalnews.ca/wp-content/uploads/2020/06/23137165.jpg?quality=85&amp;strip=all" medium="image">
+			<media:title type="html">COVID BC Schools 20200428</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Halifax mayor says rowdy university partiers lacked common sense in light of COVID-19</title>
 		<link>https://globalnews.ca/news/8224448/halifax-mayor-reacts-dalhousie-homecoming-street-party/</link>
 					<comments>https://globalnews.ca/news/8224448/halifax-mayor-reacts-dalhousie-homecoming-street-party/#respond</comments>
@@ -201,39 +263,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">8223378</post-id><enclosure url="https://i2.wp.com/media.globalnews.ca/videostatic/news/r4f02v779n-aakfijxqzp/820_PIC.jpg?w=150&amp;quality=70&amp;strip=all" length="23503000" type="image/jpeg"/>	</item>
-		<item>
-		<title>Halifax councillor talks Dal party</title>
-		<link>https://globalnews.ca/video/8223353/halifax-councillor-talks-dal-party/</link>
-		
-		<dc:creator><![CDATA[Paul Brothers]]></dc:creator>
-		<pubDate>Mon, 27 Sep 2021 11:15:57 +0000</pubDate>
-				<category><![CDATA[Politics]]></category>
-		<category><![CDATA[Dal party]]></category>
-		<category><![CDATA[Dalhousie]]></category>
-		<category><![CDATA[Waye Mason]]></category>
-		<guid isPermaLink="false">https://globalnews.ca/video/8223353/halifax-councillor-talks-dal-party/</guid>
-
-					<description><![CDATA[We check in with Halifax councillor Waye Mason to get his thoughts and talk next steps after thousands of young people took over Larch and Jennings Streets near Dalhousie campus on Saturday.]]></description>
-										<content:encoded><![CDATA[We check in with Halifax councillor Waye Mason to get his thoughts and talk next steps after thousands of young people took over Larch and Jennings Streets near Dalhousie campus on Saturday.]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">8223353</post-id><enclosure url="https://i0.wp.com/media.globalnews.ca/videostatic/news/6pkffwi279-4zil652bdc/750_PIC.jpg?w=150&amp;quality=70&amp;strip=all" length="23478000" type="image/jpeg"/>	</item>
-		<item>
-		<title>Indigenous Performance to Mark Treaty Day</title>
-		<link>https://globalnews.ca/video/8223322/indigenous-performance-to-mark-treaty-day/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 27 Sep 2021 10:37:10 +0000</pubDate>
-				<category><![CDATA[Indigenous Performance]]></category>
-		<category><![CDATA[Treaty Day]]></category>
-		<guid isPermaLink="false">https://globalnews.ca/video/8223322/indigenous-performance-to-mark-treaty-day/</guid>
-
-					<description><![CDATA[Created and performed by Indigenous artists and students, Mi’kmaq Stories: Past &#038; Present, is a blend of Indigenous voices and stories that will be performed both in person and streamed online to mark Treaty Day on October 1st.]]></description>
-										<content:encoded><![CDATA[Created and performed by Indigenous artists and students, Mi’kmaq Stories: Past &#038; Present, is a blend of Indigenous voices and stories that will be performed both in person and streamed online to mark Treaty Day on October 1st.]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">8223322</post-id><enclosure url="https://i2.wp.com/media.globalnews.ca/videostatic/news/l8hh4b6al4-0xkthnmj3s/720_PIC_SEPT_27.jpg?w=150&amp;quality=70&amp;strip=all" length="23455000" type="image/jpeg"/>	</item>
 	</channel>
 </rss>

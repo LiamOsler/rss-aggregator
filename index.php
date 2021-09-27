@@ -1,18 +1,42 @@
 <?php
-
-$handle = fopen("files/feedlist.csv", "r"); 
-$feed_list = fgetcsv($handle, 1000, ",");
-
-foreach($feed_list as $feed_source){
-?>
-<h1><?php echo($feed_source); ?></h1>
-
-<?php
-    $rss_feed = simplexml_load_file($feed_source);
-    foreach(($rss_feed->channel->item) as $feed_item) {?>
-        <h2><?php echo($feed_item->title); ?></h2>
-        <p><?php echo($feed_item->description); ?></p>
-<?php
+    //Function to read the CSV file to a multidimensional array :
+    function readCSV($csv){
+        $file = fopen($csv, 'r');
+        while (!feof($file) ) {
+            $line[] = fgetcsv($file, 1024);
+        }
+        fclose($file);
+        return $line;
     }
-}
+
+    //Read a csv with the list of feeds to save locally:
+    $feed_list_csv = 'files/feedlist.csv';
+    $feed_list = readCSV($feed_list_csv);
+
+    $i = 0;
+    foreach($feed_list as $feed_source){
+        $local_copy_string = "files/" . $feed_list[$i][0] . ".xml";
+        $local_copy_string = str_replace(" ", "_", $local_copy_string);
+
+        $rss_feed = simplexml_load_file($local_copy_string);
+        ?>
+        <h1>
+        <?php echo $feed_list[$i][0] ?>
+        </h1>
+        <?php
+        foreach ($rss_feed->channel->item as $feed_item) {
+            ?> 
+            <h2>
+                <a href="<?php echo $feed_item->link?>"><?php echo$feed_item->title?></a>
+            </h2>
+            <p>
+                <?php echo $feed_item->description?>
+            </p>
+        
+
+        <?php
+        
+        }
+        $i++;
+    }
 ?>
