@@ -1,5 +1,5 @@
 <?php include "includes/head.php"?>
-<div class ="container ">
+<div class ="container-fluid">
         <!-- Load the RSS contents: -->
         <?php
             //Function to read the CSV file to a multidimensional array :
@@ -41,13 +41,13 @@
                 <?php
                 //Go through each item in the feed and log it to the page:
                 foreach ($rss_feed->channel->item as $feed_item) {?> 
-                    <div class = "rss-item col-lg-4 col-4 col-md-6 col-sm-6">
+                    <div class = "rss-item col-lg-3 col-md-4 col-sm-6">
                         <div class="card border-primary">
                             <div class="card-body">
                             <!-- Feed item title formatted as a heading/link -->
-                            <p>
+                            <h5 class="card-title">
                                 <a href="<?php echo $feed_item->link?>"><?php echo$feed_item->title?></a>
-                            <p>
+                            </h5>
 
                             <!-- Feed item description -->
                             <p>

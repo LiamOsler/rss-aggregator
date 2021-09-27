@@ -1,10 +1,11 @@
 .rss-item img{
     max-width: 100%;
     height: auto;
+    float: left;
   }
 
 .rss-item{
-    height: fit-content;
+    vertical-align:middle
 }
 
 .card{
