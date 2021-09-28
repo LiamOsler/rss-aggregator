@@ -6,7 +6,7 @@
 	<atom:link href="https://globalnews.ca/halifax/feed/" rel="self" type="application/rss+xml"/>
 	<link>https://globalnews.ca</link>
 	<description/>
-	<lastBuildDate>Tue, 28 Sep 2021 17:44:29 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Sep 2021 18:24:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -14,6 +14,37 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 <site xmlns="com-wordpress:feed-additions:1">176892389</site>	<item>
+		<title>RCMP end search for two Labrador fishermen reported missing more than a week ago</title>
+		<link>https://globalnews.ca/news/8227450/rcmp-end-search-labrador-missing-fishermen/</link>
+					<comments>https://globalnews.ca/news/8227450/rcmp-end-search-labrador-missing-fishermen/#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 28 Sep 2021 18:24:14 +0000</pubDate>
+				<category><![CDATA[Canada]]></category>
+		<category><![CDATA[Cod Fishermen]]></category>
+		<category><![CDATA[Labrador fishermen]]></category>
+		<category><![CDATA[Labrador missing fishermen]]></category>
+		<category><![CDATA[Labrador missing persons]]></category>
+		<category><![CDATA[Labrador RCMP]]></category>
+		<category><![CDATA[Mary's Harbour]]></category>
+		<category><![CDATA[missing fishermen]]></category>
+		<category><![CDATA[RCMP N.L.]]></category>
+		<guid isPermaLink="false">https://globalnews.ca/?p=8227450</guid>
+
+					<description><![CDATA[The Mounties issued a statement today saying the 10-day search for the men covered 9,460 square nautical miles.]]></description>
+										<content:encoded><![CDATA[The Mounties issued a statement today saying the 10-day search for the men covered 9,460 square nautical miles.]]></content:encoded>
+					
+					<wfw:commentRss>https://globalnews.ca/news/8227450/rcmp-end-search-labrador-missing-fishermen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8227450</post-id><enclosure url="https://globalnews.ca/wp-content/uploads/2021/09/CP134082271-1.jpg?quality=85&amp;strip=all&amp;w=720&amp;h=480&amp;crop=1" length="17168000" type="image/jpeg"/>
+		<media:thumbnail url="https://globalnews.ca/wp-content/uploads/2021/09/CP134082271-1.jpg?quality=85&amp;strip=all"/>
+		<media:content url="https://globalnews.ca/wp-content/uploads/2021/09/CP134082271-1.jpg?quality=85&amp;strip=all" medium="image">
+			<media:title type="html">NL-Missing-Boat 20210920</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Crown wraps case against first six inmates accused in vicious N.S. jail assault</title>
 		<link>https://globalnews.ca/news/8227395/ns-jail-assault-trial-crown-wraps/</link>
 					<comments>https://globalnews.ca/news/8227395/ns-jail-assault-trial-crown-wraps/#respond</comments>
@@ -192,27 +223,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">8225151</post-id><enclosure url="https://i1.wp.com/media.globalnews.ca/videostatic/news/o0d10p86tt-nm4zhx0f81/web_MCC_OPEN_HOUSE_DRAUS_.jpg?w=150&amp;quality=70&amp;strip=all" length="25294000" type="image/jpeg"/>	</item>
-		<item>
-		<title>COVID-19 concerns about massive street party near Dalhousie University on weekend</title>
-		<link>https://globalnews.ca/video/8225157/covid-19-concerns-about-massive-street-party-near-dalhousie-university-on-weekend/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 27 Sep 2021 21:20:32 +0000</pubDate>
-				<category><![CDATA[Canada]]></category>
-		<category><![CDATA[Health]]></category>
-		<category><![CDATA[COVID-19]]></category>
-		<category><![CDATA[Dalhousie homecoming]]></category>
-		<category><![CDATA[Dalhousie University]]></category>
-		<category><![CDATA[street party]]></category>
-		<category><![CDATA[Unsanctioned Homecoming Party]]></category>
-		<category><![CDATA[unsanctioned party]]></category>
-		<guid isPermaLink="false">https://globalnews.ca/video/8225157/covid-19-concerns-about-massive-street-party-near-dalhousie-university-on-weekend/</guid>
-
-					<description><![CDATA[Many Nova Scotians continue to ask why a massive party near Dalhousie University took place despite COVID-19 restrictions. The noisy weekend party attracted hundreds of people and resulted in several arrests for public intoxication. Public health officials are concerned about the gathering and Dalhousie says there will be consequences for partiers. Amber Friday reports.]]></description>
-										<content:encoded><![CDATA[Many Nova Scotians continue to ask why a massive party near Dalhousie University took place despite COVID-19 restrictions. The noisy weekend party attracted hundreds of people and resulted in several arrests for public intoxication. Public health officials are concerned about the gathering and Dalhousie says there will be consequences for partiers. Amber Friday reports.]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">8225157</post-id><enclosure url="https://i1.wp.com/media.globalnews.ca/videostatic/news/rs6x61rntq-yyp9ie564k/web_DAL_PARTY_FOLLOW_FRYDAY_.jpg?w=150&amp;quality=70&amp;strip=all" length="25303000" type="image/jpeg"/>	</item>
 	</channel>
 </rss>

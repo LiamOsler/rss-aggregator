@@ -23,4 +23,6 @@
 
         $i++;
     }
+
+    header('Location: '. "index.php");
 ?>

@@ -80,4 +80,39 @@ Script that retrieves the list of RSS feeds and saves them as .XML files in the 
     }
 ?>
 ```
-Release 1.0
+
+### index.php:
+
+Dynamically generating the toggle boxes for the feed list:
+```php
+<?php
+    foreach($feed_list as $feed_source){
+        $div_label = $feed_source[0];
+        $div_id = str_replace(" ", "_", $feed_source[0] . "_toggle");
+        $div_id_page = str_replace(" ", "_", $feed_source[0]);
+?>
+    <div class = "feed-list">
+        <input type="checkbox" id="<?php echo $div_id?>" name="<?php echo $div_id?>" value="<?php echo $div_id?>" onclick="toggle(&quot;<?php echo $div_id_page;?>&quot;)" checked>
+        <!-- <label for="<?php echo $div_id?>"><?php echo $div_label?></label><br> -->
+        <a href ="#<?php echo $div_id_page?>"><?php echo $div_label?></a><br>
+    </div>
+<?php
+    }
+?>
+```
+
+Toggling news agency display on/off based on the state of the checkboxes:
+```javascript
+function toggle(target){
+    var news_feed = document.getElementById(target);
+    if (news_feed.style.display === "none") {
+        news_feed.style.display = "block";
+    } 
+    else {
+        news_feed.style.display = "none";
+    }
+}
+```
+
+
+

@@ -6,7 +6,7 @@
 	<atom:link href="https://www.halifaxexaminer.ca/feed/" rel="self" type="application/rss+xml"/>
 	<link>https://www.halifaxexaminer.ca</link>
 	<description>An independent, adversarial news site in Halifax, NS</description>
-	<lastBuildDate>Tue, 28 Sep 2021 16:34:59 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Sep 2021 18:22:11 +0000</lastBuildDate>
 	<language>en-CA</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,6 +22,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Lisa Banfield wants part of mass murderer’s estate</title>
+		<link>https://www.halifaxexaminer.ca/featured/lisa-banfield-wants-part-of-mass-murderers-estate/</link>
+					<comments>https://www.halifaxexaminer.ca/featured/lisa-banfield-wants-part-of-mass-murderers-estate/#respond</comments>
+		
+		<dc:creator><![CDATA[Tim Bousquet]]></dc:creator>
+		<pubDate>Tue, 28 Sep 2021 18:22:11 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.halifaxexaminer.ca/?p=83061</guid>
+
+					<description><![CDATA[The common-law spouse of the man who murdered 22 people across Nova Scotia on April 18 and 19, 2020 wants a part of the killer&#8217;s estate. The Examiner refers to the killer as GW, his initials. On Friday, Lisa Banfield filed a claim in the Supreme Court of Nova Scotia, asking the court to declare [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.halifaxexaminer.ca/featured/lisa-banfield-wants-part-of-mass-murderers-estate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>The Dal parties probably aren’t a big COVID risk; I’m more worried about elementary schools</title>
 		<link>https://www.halifaxexaminer.ca/featured/the-dal-parties-probably-arent-a-big-covid-risk-im-more-worried-about-elementary-schools/</link>
 					<comments>https://www.halifaxexaminer.ca/featured/the-dal-parties-probably-arent-a-big-covid-risk-im-more-worried-about-elementary-schools/#comments</comments>
@@ -176,24 +194,6 @@
 					<description><![CDATA[Here are the links to all the articles we published last week. Jump directly to the days you might have missed: Saturday Sunday Monday Tuesday Wednesday Thursday Friday &#160; Saturday, September 18 1. Black mother accuses Halifax police of racial bias after her child was bitten by a neighbour’s dog Matthew Byard interviewed a Black [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://www.halifaxexaminer.ca/featured/weekend-file-13/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>34 new cases of COVID-19 announced in Nova Scotia on Friday, September 24</title>
-		<link>https://www.halifaxexaminer.ca/featured/34-new-cases-of-covid-19-announced-in-nova-scotia-on-friday-september-24/</link>
-					<comments>https://www.halifaxexaminer.ca/featured/34-new-cases-of-covid-19-announced-in-nova-scotia-on-friday-september-24/#respond</comments>
-		
-		<dc:creator><![CDATA[Tim Bousquet]]></dc:creator>
-		<pubDate>Fri, 24 Sep 2021 21:05:34 +0000</pubDate>
-				<category><![CDATA[Featured]]></category>
-		<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">https://www.halifaxexaminer.ca/?p=82815</guid>
-
-					<description><![CDATA[Jump to sections in this article: Overview Vaccination Demographics Testing Potential exposure advisories Nova Scotia announced 34 new cases of COVID-19 today (Thursday, September 23). Of the new cases: • 32 are in Nova Scotia Health&#8217;s Central Zone — 12 close contacts, 1 travel related, 19 under investigation • 1 is in the Northern Zone [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://www.halifaxexaminer.ca/featured/34-new-cases-of-covid-19-announced-in-nova-scotia-on-friday-september-24/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
