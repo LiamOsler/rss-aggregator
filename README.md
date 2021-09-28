@@ -6,7 +6,6 @@ Retrieves
 Saves a list of RSS feeds to a copy on the local server
 
 ## Project File Structure:
-
 ```
 rss-aggregator
 ├── README.md
@@ -27,3 +26,5 @@ rss-aggregator
 └── scripts
     └── retrieve-feeds.php
 ```
+
+## 

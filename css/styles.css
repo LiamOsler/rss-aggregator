@@ -1,7 +1,24 @@
+body{
+    background-color: rgb(32, 32, 32);
+}
+
+p{
+    color: white;
+}
+
+a{
+    color: goldenrod;
+}
+
+h1, h2, h3, h4{
+    color: white;
+}
+
 .rss-item img{
     max-width: 100%;
     height: auto;
     float: left;
+    margin-bottom: 1em;
   }
 
 .rss-item{
@@ -10,4 +27,16 @@
 
 .card{
     padding: 1em;
+    transition: box-shadow .3s;
+    border: 1px solid #ccc;
+    background: rgb(66, 66, 66);
+    float: left;
+}
+
+
+
+.jumbotron{
+    background-color: #313131;
+    opacity: 1;
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #4b4b4b 40px ), repeating-linear-gradient( #cccccc55, #363636 );
 }

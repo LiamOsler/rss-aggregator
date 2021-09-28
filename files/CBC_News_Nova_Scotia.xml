@@ -9,7 +9,7 @@
       ]]>
     </description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 27 Sep 2021 19:12:48 EDT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 19:20:00 EDT</lastBuildDate>
     <copyright><![CDATA[Copyright: (C) Canadian Broadcasting	Corporation,							http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
         <docs><![CDATA[http://www.cbc.ca/rss/]]></docs>
     <image>
@@ -43,6 +43,19 @@
         ]]>
       </description>
     </item>
+    <item cbc:type="media" cbc:deptid="2.656" cbc:syndicate="true">
+      <title><![CDATA[Volunteers assemble thousands of COVID-19 test kits in Halifax]]></title>
+            <link>https://www.cbc.ca/news/canada/nova-scotia/volunteers-assemble-thousands-of-covid-19-test-kits-in-halifax-1.6191611?cmp=rss</link>
+      <guid isPermaLink="false">1.6191611</guid>
+      <pubDate>Mon, 27 Sep 2021 19:20:00 EDT</pubDate>
+                  <author/>
+      										      <category>News/Canada/Nova Scotia</category>
+      <description>
+        <![CDATA[
+                        <img src='https://i.cbc.ca/1.6191611.1632785702!/httpImage/image.jpg_gen/derivatives/16x9_460/image.jpg' alt='Volunteers assemble thousands of COVID-19 test kits in Halifax' width='460' title='Testing supplies have arrived from the federal government to help Nova Scotia during the fourth wave of COVID-19.' height='259' />                <p>Testing supplies have arrived from the federal government to help Nova Scotia during the fourth wave of COVID-19.</p>
+        ]]>
+      </description>
+    </item>
     <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
       <title><![CDATA[Inquiry examining N.S. mass shootings holds open houses]]></title>
             <link>https://www.cbc.ca/news/canada/nova-scotia/mass-casualty-commission-open-houses-colchester-county-1.6191175?cmp=rss</link>
@@ -53,6 +66,19 @@
       <description>
         <![CDATA[
                         <img src='https://i.cbc.ca/1.6191293.1632773095!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/barbara-maclean.jpg' alt='Barbara MacLean' width='460' title='Barbara MacLean is the director of investigations with the Mass Casualty Commission. ' height='259' />                <p>Staff with the Mass Casualty Commission were in Truro today meeting with residents. It's part of the work underway to examine the circumstances behind the killings of 22 people in April of last year.</p>
+        ]]>
+      </description>
+    </item>
+    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
+      <title><![CDATA[Here are all the potential COVID-19 exposure sites in Nova Scotia]]></title>
+            <link>https://www.cbc.ca/news/canada/nova-scotia/possible-covid-19-exposures-in-nova-scotia-1.5803594?cmp=rss</link>
+      <guid isPermaLink="false">1.5803594</guid>
+      <pubDate>Mon, 16 Nov 2020 16:24:46 EST</pubDate>
+                        <author>CBC News</author>
+      										      <category>News/Canada/Nova Scotia</category>
+      <description>
+        <![CDATA[
+                        <img src='https://i.cbc.ca/1.5792954.1604690302!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/health-coronavirus-covid.JPG' alt='HEALTH-CORONAVIRUS/COVID' width='460' title='Colourized scanning electron micrograph of an apoptotic cell (red) infected with SARS-COV-2 virus particles (yellow), also known as novel coronavirus, isolated from a patient sample. Image captured at the NIAID Integrated Research Facility (IRF) in Fort Detrick, Maryland. National Institute of Allergy and Infectious Diseases.' height='259' />                <p>A current look at the COVID-19 possible exposure notices across Nova Scotia.</p>
         ]]>
       </description>
     </item>
@@ -201,19 +227,6 @@
       </description>
     </item>
     <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
-      <title><![CDATA[Here are all the potential COVID-19 exposure sites in Nova Scotia]]></title>
-            <link>https://www.cbc.ca/news/canada/nova-scotia/possible-covid-19-exposures-in-nova-scotia-1.5803594?cmp=rss</link>
-      <guid isPermaLink="false">1.5803594</guid>
-      <pubDate>Mon, 16 Nov 2020 16:24:46 EST</pubDate>
-                        <author>CBC News</author>
-      										      <category>News/Canada/Nova Scotia</category>
-      <description>
-        <![CDATA[
-                        <img src='https://i.cbc.ca/1.5792954.1604690302!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/health-coronavirus-covid.JPG' alt='HEALTH-CORONAVIRUS/COVID' width='460' title='Colourized scanning electron micrograph of an apoptotic cell (red) infected with SARS-COV-2 virus particles (yellow), also known as novel coronavirus, isolated from a patient sample. Image captured at the NIAID Integrated Research Facility (IRF) in Fort Detrick, Maryland. National Institute of Allergy and Infectious Diseases.' height='259' />                <p>A current look at the COVID-19 possible exposure notices across Nova Scotia.</p>
-        ]]>
-      </description>
-    </item>
-    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
       <title><![CDATA[Halifax rally pushes for guaranteed basic income]]></title>
             <link>https://www.cbc.ca/news/canada/nova-scotia/halifax-rally-pushes-for-guaranteed-basic-income-1.6189802?cmp=rss</link>
       <guid isPermaLink="false">1.6189802</guid>
@@ -262,19 +275,6 @@
       <description>
         <![CDATA[
                         <img src='https://i.cbc.ca/1.6183905.1632237623!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/dr-heather-morrison-screen-grab-pub-health-briefing-sept-21-2021.jpg' alt='Dr Heather Morrison screen grab Pub Health briefing Sept 21, 2021' width='460' title='P.E.I. Chief Public Health Officer Dr. Heather Morrison says the Delta variant of COVID-19 has a &#39;breathtaking ability to spread ... this variant is a game changer.&#39;' height='259' />                <p>Chief Public Health Officer Dr. Heather Morrison is advising Islanders to avoid travelling out of the province unless it is necessary.</p>
-        ]]>
-      </description>
-    </item>
-    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
-      <title><![CDATA['Relax, we are double vaxxed': Hundreds of Dalhousie students attend street party]]></title>
-            <link>https://www.cbc.ca/news/canada/nova-scotia/street-party-halifax-covid-restrictions-police-dalhousie-1.6189860?cmp=rss</link>
-      <guid isPermaLink="false">1.6189860</guid>
-      <pubDate>Sat, 25 Sep 2021 18:03:09 EDT</pubDate>
-                        <author>CBC News</author>
-      										      <category>News/Canada/Nova Scotia</category>
-      <description>
-        <![CDATA[
-                        <img src='https://i.cbc.ca/1.6189923.1632603451!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/dalhousie-homecoming-party.JPG' alt='Dalhousie homecoming party' width='460' title='A jubilant reveler behind police tape on Jennings Street' height='259' />                <p>Despite ongoing gathering limits in the province, hundreds of Dalhousie students attended a street party in Halifax on Saturday.</p>
         ]]>
       </description>
     </item>

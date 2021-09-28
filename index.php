@@ -2,6 +2,13 @@
 <div class ="container">
         <!-- Load the RSS contents: -->
         <?php
+
+            function sanitizeString($stringInput){
+                $sanitizedString = htmlspecialchars(stripslashes(trim($stringInput)));
+                
+                return $sanitizedString;
+            }
+
             //Function to read the CSV file to a multidimensional array :
             function readCSV($csv){
                 $file = fopen($csv, 'r');
@@ -32,9 +39,9 @@
                 <!-- Echo the title of the feed (from the CSV file) -->
                 <div class = "row">
                     <div class = "col-md-12">
-                        <h1>
+                        <h2>
                             <?php echo $feed_list[$i][0] ?>
-                        </h1>
+                        </h2>
                     </div>
                 </div>
 
