@@ -9,7 +9,7 @@ index.php shows a Bootstrap based interface that displays the contents of the sc
 Retrieve and display a list of RSS feeds
 
 ## Project File Structure:
-```
+```bash
 rss-aggregator
 ├── README.md
 ├── css
@@ -35,12 +35,12 @@ rss-aggregator
 ### feedlist.csv:
 
 Feeds are stored in a csv format with the name followed by the URL:
-```{csv}
+```csv
 Name of Agency, https://rss.feed.com/address.xml
 ```
 
 Examples:
-```{csv}
+```csv
 CBC News Nova Scotia,https://rss.cbc.ca/lineup/canada-novascotia.xml
 CTV News Atlantic,https://atlantic.ctvnews.ca/rss/ctv-news-atlantic-public-rss-1.822315
 Global News Atlantic,https://globalnews.ca/halifax/feed/
@@ -51,7 +51,7 @@ The Halifax Examiner,https://www.halifaxexaminer.ca/feed/
 ### retrieve-feeds.php:
 
 Script that retrieves the list of RSS feeds and saves them as .XML files in the "files" directory of the project:
-```{php}
+```php
 <?php
     //Function to read the CSV file to a multidimensional array :
     function readCSV($csv){
