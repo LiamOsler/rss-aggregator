@@ -9,7 +9,7 @@
       ]]>
     </description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 27 Sep 2021 19:20:00 EDT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Sep 2021 13:01:54 EDT</lastBuildDate>
     <copyright><![CDATA[Copyright: (C) Canadian Broadcasting	Corporation,							http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
         <docs><![CDATA[http://www.cbc.ca/rss/]]></docs>
     <image>
@@ -17,6 +17,97 @@
       <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
       <link>https://www.cbc.ca/news/?cmp=rss</link>
     </image>
+    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
+      <title><![CDATA[N.S. spent $1M on lawyers in disciplinary case involving Halifax cardiologist]]></title>
+            <link>https://www.cbc.ca/news/canada/nova-scotia/gabrielle-horne-disciplinary-suit-research-capital-health-1.6190659?cmp=rss</link>
+      <guid isPermaLink="false">1.6190659</guid>
+      <pubDate>Tue, 28 Sep 2021 05:00:12 EDT</pubDate>
+                        <author>Jean Laroche</author>
+      										      <category>News/Canada/Nova Scotia</category>
+      <description>
+        <![CDATA[
+                        <img src='https://i.cbc.ca/1.3811245.1476841738!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/dr-gabrielle-horne.JPG' alt='Dr. Gabrielle Horne' width='460' title='' height='259' />                <p>Documents the Nova Scotia government has finally released after long insisting they be kept secret show $1 million in taxpayers' money was spent on outside lawyers taking part in a lengthy disciplinary process involving Halifax cardiology researcher Gabrielle Horne.</p>
+        ]]>
+      </description>
+    </item>
+    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
+      <title><![CDATA[No injuries reported after floatplane forced to land in lake near Halifax airport]]></title>
+            <link>https://www.cbc.ca/news/canada/nova-scotia/turf-lake-plane-crash-halifax-stanfield-international-airport-1.6192230?cmp=rss</link>
+      <guid isPermaLink="false">1.6192230</guid>
+      <pubDate>Tue, 28 Sep 2021 13:01:54 EDT</pubDate>
+                        <author>CBC News</author>
+      										      <category>News/Canada/Nova Scotia</category>
+      <description>
+        <![CDATA[
+                        <img src='https://i.cbc.ca/1.6192324.1632850636!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/turf-lake-cessna-plane.JPG' alt='Turf Lake Cessna plane' width='460' title='The plane that was forced to land in Turf Lake, N.S., is a Cessna 206.' height='259' />                <p>There are no injuries after a floatplane experiencing altitude problems was forced to land in Turf Lake, near the Halifax Stanfield International Airport.</p>
+        ]]>
+      </description>
+    </item>
+    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
+      <title><![CDATA[One person dead after fire at residence in New Waterford]]></title>
+            <link>https://www.cbc.ca/news/canada/nova-scotia/fatal-fire-new-waterford-1.6192205?cmp=rss</link>
+      <guid isPermaLink="false">1.6192205</guid>
+      <pubDate>Tue, 28 Sep 2021 12:32:50 EDT</pubDate>
+                        <author>CBC News</author>
+      										      <category>News/Canada/Nova Scotia</category>
+      <description>
+        <![CDATA[
+                        <img src='https://i.cbc.ca/1.5358253.1632846353!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/cbrm-fire-logo.jpg' alt='CBRM fire logo' width='460' title='Cape Breton regional police say one persn is dead following a fire at a residence in New Waterford early Tuesday morning.' height='259' />                <p>Cape Breton Regional Police say one person is dead following a fire at a residence in New Waterford, N.S., early Tuesday.</p>
+        ]]>
+      </description>
+    </item>
+    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
+      <title><![CDATA[One person found dead after fire in wooded area near Bayers Lake Friday]]></title>
+            <link>https://www.cbc.ca/news/canada/nova-scotia/one-person-found-dead-after-fire-in-bayers-lake-friday-1.6191383?cmp=rss</link>
+      <guid isPermaLink="false">1.6191383</guid>
+      <pubDate>Tue, 28 Sep 2021 11:54:52 EDT</pubDate>
+                        <author>Feleshia Chandler</author>
+      										      <category>News/Canada/Nova Scotia</category>
+      <description>
+        <![CDATA[
+                        <img src='https://i.cbc.ca/1.6192310.1632850045!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/chain-of-lakes-trail-bayers-lake.jpg' alt='Chain of Lakes trail Bayers Lake' width='460' title='The Chain of Lakes trail in Halifax, near the area of Friday&#39;s fire, is shown on Monday, Sept. 28, 2021.' height='259' />                <p>One person was found dead after a fire Friday night in a wooded area near Halifax's Bayers Lake business park. Fire officials said the source of the fire was an 8-by-8 foot wooden structure.</p>
+        ]]>
+      </description>
+    </item>
+    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
+      <title><![CDATA[How residents of a small N.S. town have embraced its feral rabbits]]></title>
+            <link>https://www.cbc.ca/news/canada/nova-scotia/bridgewater-feral-rabbits-1.6191833?cmp=rss</link>
+      <guid isPermaLink="false">1.6191833</guid>
+      <pubDate>Tue, 28 Sep 2021 09:17:54 EDT</pubDate>
+                        <author>Frances Willick</author>
+      										      <category>News/Canada/Nova Scotia</category>
+      <description>
+        <![CDATA[
+                        <img src='https://i.cbc.ca/1.6191835.1632830500!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/bridgewater-bunnies.jpg' alt='Bridgewater bunnies' width='460' title='Dozens of rabbits have made their home on and around Pleasant Street in Bridgewater for years. These two are called Peter and Petra.' height='259' />                <p>Pleasant Street, a quiet, dead-end road in Bridgewater, N.S., is nicknamed Bunny Street due to its feral rabbits. When a neighbour started to a rescue group to find homes for the animals, local residents stepped in.</p>
+        ]]>
+      </description>
+    </item>
+    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
+      <title><![CDATA[Halifax's plan for mobile showers doesn't address root cause of homelessness, prof says]]></title>
+            <link>https://www.cbc.ca/news/canada/nova-scotia/halifax-council-mobile-shower-pilot-project-staff-report-1.6190092?cmp=rss</link>
+      <guid isPermaLink="false">1.6190092</guid>
+      <pubDate>Tue, 28 Sep 2021 05:00:00 EDT</pubDate>
+                        <author>Richard Woodbury</author>
+      										      <category>News/Canada/Nova Scotia</category>
+      <description>
+        <![CDATA[
+                        <img src='https://i.cbc.ca/1.6101179.1626204878!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/jeff-karabanow.jpg' alt='jeff karabanow' width='460' title='Jeff Karabanow is a professor at Dalhousie University and one of the directors of the Dalhousie Social Work Community Clinic.' height='259' />                <p>A Dalhousie University social work professor says a proposed mobile shower pilot project for people experiencing homelessness in Halifax is "a Band-Aid solution."</p>
+        ]]>
+      </description>
+    </item>
+    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
+      <title><![CDATA[Sydney overdose prevention site could include machine that dispenses safe supplies of opioids]]></title>
+            <link>https://www.cbc.ca/news/canada/nova-scotia/sydney-overdose-site-drug-vending-machine-1.6191261?cmp=rss</link>
+      <guid isPermaLink="false">1.6191261</guid>
+      <pubDate>Tue, 28 Sep 2021 05:00:00 EDT</pubDate>
+                        <author>Tom Ayers</author>
+      										      <category>News/Canada/Nova Scotia</category>
+      <description>
+        <![CDATA[
+                        <img src='https://i.cbc.ca/1.6191322.1632773817!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/giulia-digiorgio.jpg' alt='Giulia DiGiorgio' width='460' title='Giulia DiGiorgio, with the Ally Centre of Cape Breton, says an overdose prevention site is coming to Sydney and it is hoped a safe supply of opioids will also be available to prevent deaths.' height='259' />                <p>Organizers in Sydney, N.S., are hoping to get a new drug overdose prevention site that includes a vending machine that dispenses a safe dose of opioids by scanning the palms of approved drug users.</p>
+        ]]>
+      </description>
+    </item>
     <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
       <title><![CDATA[N.S. reports one new death, 83 new cases of COVID-19 over the weekend]]></title>
             <link>https://www.cbc.ca/news/canada/nova-scotia/covid-19-update-september-27-2021-1.6190812?cmp=rss</link>
@@ -40,6 +131,19 @@
       <description>
         <![CDATA[
                         <img src='https://i.cbc.ca/1.6191497.1632779958!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/halifax-skyline-fog.jpg' alt='halifax skyline fog' width='460' title='A new study shows that transported pollution from outside the province accounted for up to 63 per cent of harmful ozone levels in Halifax.' height='259' />                <p>Levels of a potentially dangerous air pollutant have decreased in Nova Scotia over the past two decades, according to the first long-term analysis of surface ozone in the province.</p>
+        ]]>
+      </description>
+    </item>
+    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
+      <title><![CDATA[Alleged drunk driver crashes into home, forcing couple out]]></title>
+            <link>https://www.cbc.ca/news/canada/nova-scotia/alleged-drunk-driver-windsor-home-crash-1.6191157?cmp=rss</link>
+      <guid isPermaLink="false">1.6191157</guid>
+      <pubDate>Mon, 27 Sep 2021 16:00:56 EDT</pubDate>
+                        <author>CBC News</author>
+      										      <category>News/Canada/Nova Scotia</category>
+      <description>
+        <![CDATA[
+                        <img src='https://i.cbc.ca/1.6191171.1632769844!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/windsor-home-crash.JPG' alt='Windsor home crash' width='460' title='The front door of a duplex apartment in Windsor, N.S., is seen smashed and splintered after an alleged impaired driving crashed into the building last Tuesday.' height='259' />                <p>A young couple in Windsor, N.S., have been left without a home after a car smashed into their apartment last week.</p>
         ]]>
       </description>
     </item>
@@ -92,19 +196,6 @@
       <description>
         <![CDATA[
                         <img src='https://i.cbc.ca/1.6190086.1632768453!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_460/jennings-street-gathering.jpeg' alt='Jennings Street gathering' width='460' title='Halifax police say thousands of people attended the Saturday evening gathering.' height='259' />                <p>Broken glass and trash bags filled with red cups are the only traces that remain of the parties that drew thousands of university students to the streets of a Halifax neighbourhood on Saturday night. But trust has been shaken and consequences loom.</p>
-        ]]>
-      </description>
-    </item>
-    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
-      <title><![CDATA[Alleged drunk driver crashes into home, forcing couple out]]></title>
-            <link>https://www.cbc.ca/news/canada/nova-scotia/alleged-drunk-driver-windsor-home-crash-1.6191157?cmp=rss</link>
-      <guid isPermaLink="false">1.6191157</guid>
-      <pubDate>Mon, 27 Sep 2021 16:00:56 EDT</pubDate>
-                        <author>CBC News</author>
-      										      <category>News/Canada/Nova Scotia</category>
-      <description>
-        <![CDATA[
-                        <img src='https://i.cbc.ca/1.6191171.1632769844!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/windsor-home-crash.JPG' alt='Windsor home crash' width='460' title='The front door of a duplex apartment in Windsor, N.S., is seen smashed and splintered after an alleged impaired driving crashed into the building last Tuesday.' height='259' />                <p>A young couple in Windsor, N.S., have been left without a home after a car smashed into their apartment last week.</p>
         ]]>
       </description>
     </item>
@@ -183,98 +274,6 @@
       <description>
         <![CDATA[
                         <img src='https://i.cbc.ca/1.6190086.1632768453!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_460/jennings-street-gathering.jpeg' alt='Jennings Street gathering' width='460' title='Halifax police say thousands of people attended the Saturday evening gathering.' height='259' />                <p>Dalhousie University is condemning the actions of students who took part in large street parties in Halifax over the weekend, and says it is pursuing disciplinary action.</p>
-        ]]>
-      </description>
-    </item>
-    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
-      <title><![CDATA[Alberta man unites with long lost half-siblings in Nova Scotia after surprise DNA test]]></title>
-            <link>https://www.cbc.ca/news/canada/nova-scotia/alberta-man-half-sibling-dna-test-1.6188474?cmp=rss</link>
-      <guid isPermaLink="false">1.6188474</guid>
-      <pubDate>Sun, 26 Sep 2021 05:00:00 EDT</pubDate>
-                        <author>Cassidy Chisholm</author>
-      										      <category>News/Canada/Nova Scotia</category>
-      <description>
-        <![CDATA[
-                        <img src='https://i.cbc.ca/1.6188625.1632511046!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_460/wilson-family.jpeg' alt='Wilson family' width='460' title='All five siblings, Doug, Janet, Rick, Joanne and Gordon, are seen during the first in-person meeting in in Digby earlier this month. 
-' height='259' />                <p>An Alberta man has gained four new half-siblings in Nova Scotia after uncovering a decades-old family secret with a DNA test.</p>
-        ]]>
-      </description>
-    </item>
-    <item cbc:type="story" cbc:deptid="2.713" cbc:syndicate="true">
-      <title><![CDATA[Nova Scotia curler Jill Brothers secures berth in hometown pre-trials competition next month]]></title>
-            <link>https://www.cbc.ca/sports/olympics/winter/curling/nova-scotia-curler-jill-brothers-secures-berth-in-pre-trials-competition-1.6190289?cmp=rss</link>
-      <guid isPermaLink="false">1.6190289</guid>
-      <pubDate>Sun, 26 Sep 2021 15:59:12 EDT</pubDate>
-                        <author>The Canadian Press</author>
-      													      <category>Sports/Olympics/Winter Sports/Curling</category>
-      <description>
-        <![CDATA[
-                        <img src='https://i.cbc.ca/1.6190299.1632685723!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/jill-brothers.jpg' alt='Jill-Brothers' width='460' title='Team Jill Brothers won five straight games at the pre-trials direct entry curling event in Ottawa to clinch the final spot available in the Oct. 26-31 pre-trials competition being held her hometown of Liverpool, N.S.' height='259' />                <p>Team Jill Brothers defeated Team Jessie Hunkin 8-6 on Sunday to earn a spot in the Home Hardware curling pre-trials in Liverpool, N.S., next month.</p>
-        ]]>
-      </description>
-    </item>
-    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
-      <title><![CDATA[Respiratory professionals' group seeks mandatory COVID vaccination for health-care workers]]></title>
-            <link>https://www.cbc.ca/news/canada/nova-scotia/canadian-thoracic-society-respirologists-mandatory-vaccinations-health-care-workers-1.6189790?cmp=rss</link>
-      <guid isPermaLink="false">1.6189790</guid>
-      <pubDate>Sun, 26 Sep 2021 12:46:40 EDT</pubDate>
-                        <author>Vernon Ramesar</author>
-      										      <category>News/Canada/Nova Scotia</category>
-      <description>
-        <![CDATA[
-                        <img src='https://i.cbc.ca/1.6189543.1632533945!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_460/sk-vaccination-20201215.jpg' alt='SK VACCINATION 20201215' width='460' title='Debbie Frier, registered nurse, left, injects Leah Sawatsky, an emergency room nurse, right, with the Pfizer-BioNTech COVID-19 vaccine at the Regina General Hospital in Regina on Tuesday, Dec. 15, 2020. ' height='259' />                <p>An organization representing respiratory professionals is calling on provincial governments to introduce legislation making COVID-19 vaccinations mandatory for health care workers.</p>
-        ]]>
-      </description>
-    </item>
-    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
-      <title><![CDATA[Halifax rally pushes for guaranteed basic income]]></title>
-            <link>https://www.cbc.ca/news/canada/nova-scotia/halifax-rally-pushes-for-guaranteed-basic-income-1.6189802?cmp=rss</link>
-      <guid isPermaLink="false">1.6189802</guid>
-      <pubDate>Sat, 25 Sep 2021 15:03:14 EDT</pubDate>
-                        <author>Haley Ryan</author>
-      										      <category>News/Canada/Nova Scotia</category>
-      <description>
-        <![CDATA[
-                        <img src='https://i.cbc.ca/1.6189803.1632593942!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/mandy-kay-raining-bird.JPG' alt='Mandy Kay-Raining Bird' width='460' title='Mandy Kay-Raining Bird, chair of Basic Income Nova Scotia (BIG-NS), speaks during a rally in Halifax&#39;s Grand Parade on Saturday.' height='259' />                <p>A small but passionate group of people came together in Halifax on Saturday to call for a guaranteed basic income.</p>
-        ]]>
-      </description>
-    </item>
-    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
-      <title><![CDATA[Woman, 19, dead after single-car crash in Yarmouth County]]></title>
-            <link>https://www.cbc.ca/news/canada/nova-scotia/fatal-crash-port-maitland-darlings-lake-woman-killed-1.6189752?cmp=rss</link>
-      <guid isPermaLink="false">1.6189752</guid>
-      <pubDate>Sat, 25 Sep 2021 13:12:29 EDT</pubDate>
-                        <author>CBC News</author>
-      										      <category>News/Canada/Nova Scotia</category>
-      <description>
-        <![CDATA[
-                        <img src='https://i.cbc.ca/1.5565815.1626120978!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/rcmp-cruiser.JPG' alt='RCMP cruiser' width='460' title='Low angle view from front of RCMP cruiser showing POLICE logo' height='259' />                <p>A 19-year-old woman is dead following a crash Friday night on Highway 1 near Darlings Lake, N.S.</p>
-        ]]>
-      </description>
-    </item>
-    <item cbc:type="story" cbc:deptid="2.658" cbc:syndicate="true">
-      <title><![CDATA[In-person meeting of Atlantic premiers shelved amid rising COVID numbers]]></title>
-            <link>https://www.cbc.ca/news/canada/prince-edward-island/pei-council-atlantic-premiers-1.6189811?cmp=rss</link>
-      <guid isPermaLink="false">1.6189811</guid>
-      <pubDate>Sat, 25 Sep 2021 15:32:51 EDT</pubDate>
-                        <author>CBC News</author>
-      										      <category>News/Canada/PEI</category>
-      <description>
-        <![CDATA[
-                        <img src='https://i.cbc.ca/1.6183174.1632182890!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/premier-blaine-higgs-sept-20-2021.jpg' alt='Premier Blaine Higgs, Sept. 20, 2021' width='460' title='Premier Blaine Higgs addressed the public Monday afternoon.' height='259' />                <p>An in-person meeting of the Council of Atlantic Premiers will not be held on Monday as planned.</p>
-        ]]>
-      </description>
-    </item>
-    <item cbc:type="story" cbc:deptid="2.658" cbc:syndicate="true">
-      <title><![CDATA[P.E.I. Health officials advise Islanders to avoid non-essential travel]]></title>
-            <link>https://www.cbc.ca/news/canada/prince-edward-island/pei-non-essential-travel-1.6189722?cmp=rss</link>
-      <guid isPermaLink="false">1.6189722</guid>
-      <pubDate>Sat, 25 Sep 2021 12:47:35 EDT</pubDate>
-                        <author>Yakosu Umana</author>
-      										      <category>News/Canada/PEI</category>
-      <description>
-        <![CDATA[
-                        <img src='https://i.cbc.ca/1.6183905.1632237623!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/dr-heather-morrison-screen-grab-pub-health-briefing-sept-21-2021.jpg' alt='Dr Heather Morrison screen grab Pub Health briefing Sept 21, 2021' width='460' title='P.E.I. Chief Public Health Officer Dr. Heather Morrison says the Delta variant of COVID-19 has a &#39;breathtaking ability to spread ... this variant is a game changer.&#39;' height='259' />                <p>Chief Public Health Officer Dr. Heather Morrison is advising Islanders to avoid travelling out of the province unless it is necessary.</p>
         ]]>
       </description>
     </item>

@@ -6,7 +6,7 @@
 <description>
         
   </description>
-<lastBuildDate>Mon, 27 Sep 2021 22:19:04 -0300</lastBuildDate>
+<lastBuildDate>Tue, 28 Sep 2021 14:31:00 -0300</lastBuildDate>
   <image>
 <title><![CDATA[CTV News Atlantic - Public RSS]]></title>
 <link>https://atlantic.ctvnews.ca/rss/ctv-news-atlantic-public-rss-1.822315</link>
@@ -14,28 +14,100 @@
     </image>
   <language>en</language>
 <copyright>Copyright Bellmedia</copyright>           <item>
-    <title><![CDATA[New Brunswick reports record 86 new COVID-19 cases on Monday, active cases rise to 650]]></title>
-    <link>https://atlantic.ctvnews.ca/new-brunswick-reports-record-86-new-covid-19-cases-on-monday-active-cases-rise-to-650-1.5601794</link>
-    <description><![CDATA[Health officials in New Brunswick are reporting a single-day record 86 new cases of COVID-19 on Monday, as the total number of active cases in the province rises to 650.]]></description>
+    <title><![CDATA[N.S. to release daily details on schools affected by COVID-19 starting Tuesday]]></title>
+    <link>https://atlantic.ctvnews.ca/n-s-to-release-daily-details-on-schools-affected-by-covid-19-starting-tuesday-1.5602795</link>
+    <description><![CDATA[Elizabeth Guitard kept her kids home from school Monday, concerned over the growing list of COVID-19 exposures linked to Nova Scotia schools.]]></description>
     <author/>
-          <dc:creator><![CDATA[Allan April]]></dc:creator>
-              <creditLine><![CDATA[CTVNewsAtlantic.ca writer]]></creditLine>
-            <guid isPermaLink="false">1.5601794</guid>
-    <pubDate>Mon, 27 Sep 2021 15:18:00 -0300</pubDate>
-        <ctv:lastModifiedDate>Mon, 27 Sep 2021 21:18:03 -0300</ctv:lastModifiedDate>  
-        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5487485.1624806052!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[THE CANADIAN PRESS/Nathan Denette ]]></enclosure>
+          <dc:creator><![CDATA[Heidi Petracek]]></dc:creator>
+              <creditLine><![CDATA[CTV News Atlantic Reporter]]></creditLine>
+            <guid isPermaLink="false">1.5602795</guid>
+    <pubDate>Mon, 27 Sep 2021 21:07:00 -0300</pubDate>
+        <ctv:lastModifiedDate>Tue, 28 Sep 2021 11:04:12 -0300</ctv:lastModifiedDate>  
+        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5602516.1632778805!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[According to one parent, at least one school affected by multiple exposures is now taking extra measures. One parent whose child attends Halifax West says she received four separate notifications about cases connected to the school.]]></enclosure>
 		 		         </item>
               <item>
-    <title><![CDATA[Nova Scotia reports 96th COVID-19 related death, 83 new cases over the weekend]]></title>
-    <link>https://atlantic.ctvnews.ca/nova-scotia-reports-96th-covid-19-related-death-83-new-cases-over-the-weekend-1.5601793</link>
-    <description><![CDATA[Health officials in Nova Scotia are reporting 83 new cases of COVID-19 over the weekend, along with 46 recoveries, as the number of active cases in the province rises to 205.]]></description>
+    <title><![CDATA[Stop asking staff to write fake vaccine records: New Brunswick Horizon Health ]]></title>
+    <link>https://atlantic.ctvnews.ca/stop-asking-staff-to-write-fake-vaccine-records-new-brunswick-horizon-health-1.5603353</link>
+    <description><![CDATA[Horizon Health in New Brunswick has issued a notice telling residents to stop asking public health to falsify vaccination documentation.]]></description>
+    <author/>
+          <dc:creator><![CDATA[Samantha Long]]></dc:creator>
+              <creditLine><![CDATA[CTVNewsAtlantic.ca writer]]></creditLine>
+            <guid isPermaLink="false">1.5603353</guid>
+    <pubDate>Tue, 28 Sep 2021 11:08:00 -0300</pubDate>
+        <ctv:lastModifiedDate>Tue, 28 Sep 2021 11:54:43 -0300</ctv:lastModifiedDate>  
+        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5000613.1593131651!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[Horizon Health in New Brunswick has issued a notice telling the public to stop asking public health to falsify vaccination documentation.]]></enclosure>
+		 		         </item>
+              <item>
+    <title><![CDATA[Plane lands in lake near Halifax airport after experiencing electrical issues]]></title>
+    <link>https://atlantic.ctvnews.ca/plane-lands-in-lake-near-halifax-airport-after-experiencing-electrical-issues-1.5603619</link>
+    <description><![CDATA[Emergency crews in Nova Scotia are on scene near the Halifax Stanfield International Airport after a plane landed in a lake.]]></description>
+    <author/>
+          <dc:creator><![CDATA[Samantha Long]]></dc:creator>
+              <creditLine><![CDATA[CTVNewsAtlantic.ca writer]]></creditLine>
+            <guid isPermaLink="false">1.5603619</guid>
+    <pubDate>Tue, 28 Sep 2021 13:54:00 -0300</pubDate>
+        <ctv:lastModifiedDate>Tue, 28 Sep 2021 14:51:37 -0300</ctv:lastModifiedDate>  
+        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5437821.1621605378!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[Emergency crews in Nova Scotia are on scene near the Halifax Stanfield International Airport after a plane landed in a lake.]]></enclosure>
+		 		         </item>
+              <item>
+    <title><![CDATA[P.E.I. reports two new cases of COVID-19 Tuesday, active cases drop to nine]]></title>
+    <link>https://atlantic.ctvnews.ca/p-e-i-reports-two-new-cases-of-covid-19-tuesday-active-cases-drop-to-nine-1.5603340</link>
+    <description><![CDATA[Prince Edward Island is reporting two new cases of COVID-19 on Tuesday, as the active number of cases in the province drops to nine.]]></description>
     <author/>
           <dc:creator><![CDATA[Allan April]]></dc:creator>
               <creditLine><![CDATA[CTVNewsAtlantic.ca writer]]></creditLine>
-            <guid isPermaLink="false">1.5601793</guid>
-    <pubDate>Mon, 27 Sep 2021 15:53:00 -0300</pubDate>
-        <ctv:lastModifiedDate>Mon, 27 Sep 2021 16:11:49 -0300</ctv:lastModifiedDate>  
-        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5544848.1628797569!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[(AP Photo/Bruna Prado) ]]></enclosure>
+            <guid isPermaLink="false">1.5603340</guid>
+    <pubDate>Tue, 28 Sep 2021 13:30:07 -0300</pubDate>
+        <ctv:lastModifiedDate>Tue, 28 Sep 2021 13:49:32 -0300</ctv:lastModifiedDate>  
+        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5603556.1632845872!/httpImage/image.png_gen/derivatives/landscape_300/image.png"><![CDATA[“Since August, 87 per cent of the cases in P.E.I. have been identified as the Delta variant,” said Dr. Heather Morrison, P.E.I.’s Chief Public Health Officer, during Tuesday’s news update.]]></enclosure>
+		 		         </item>
+              <item>
+    <title><![CDATA[Stalling weather pattern brings damp week; Hurricane Sam moves north]]></title>
+    <link>https://atlantic.ctvnews.ca/stalling-weather-pattern-brings-damp-week-hurricane-sam-moves-north-1.5603657</link>
+    <description><![CDATA[There will be varied weather conditions this week, including periods of rain and showers, as a number of slow moving weather systems move into the Maritimes.]]></description>
+    <author/>
+          <dc:creator><![CDATA[Kalin Mitchell]]></dc:creator>
+              <creditLine><![CDATA[CTV News Atlantic Chief Meteorologist]]></creditLine>
+            <guid isPermaLink="false">1.5603657</guid>
+    <pubDate>Tue, 28 Sep 2021 14:31:00 -0300</pubDate>
+        <ctv:lastModifiedDate>Tue, 28 Sep 2021 14:47:20 -0300</ctv:lastModifiedDate>  
+        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5542980.1628701064!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[Varied weather conditions this week including periods of rain and showers as a number of slow moving weather systems move into the Maritimes. (THE CANADIAN PRESS/Darren Calabrese)]]></enclosure>
+		 		         </item>
+              <item>
+    <title><![CDATA[RCMP end search for two Labrador fishermen reported missing more than a week ago]]></title>
+    <link>https://atlantic.ctvnews.ca/rcmp-end-search-for-two-labrador-fishermen-reported-missing-more-than-a-week-ago-1.5603667</link>
+    <description><![CDATA[The RCMP in southeastern Labrador have called off the search for two fishermen whose boat disappeared more than a week ago.]]></description>
+    <author/>
+          <dc:creator><![CDATA[The Canadian Press]]></dc:creator>
+              <creditLine><![CDATA[Staff]]></creditLine>
+            <guid isPermaLink="false">1.5603667</guid>
+    <pubDate>Tue, 28 Sep 2021 14:26:00 -0300</pubDate>
+        <ctv:lastModifiedDate>Tue, 28 Sep 2021 14:26:00 -0300</ctv:lastModifiedDate>  
+        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5597722.1632419252!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[The fishing vessel Island Lady is shown in this undated handout image provided by Dwight Russell. The father of a missing fisherman is asking the coast guard to resume a full search effort in hopes of recovering his son and one crew member of a nine-metre boat that went missing on Friday off the coast of Labrador. THE CANADIAN PRESS/HO-Dwight Russell]]></enclosure>
+		 		         </item>
+              <item>
+    <title><![CDATA[New Brunswick coroner's inquest into 2020 police killing of Rodney Levi begins]]></title>
+    <link>https://atlantic.ctvnews.ca/new-brunswick-coroner-s-inquest-into-2020-police-killing-of-rodney-levi-begins-1.5603379</link>
+    <description><![CDATA[The coroner’s inquest into the death of a man from New Brunswick's Metepenagiag First Nation began in Miramichi on Tuesday.]]></description>
+    <author/>
+          <dc:creator><![CDATA[Eilish Bonang ]]></dc:creator>
+              <creditLine><![CDATA[CTV News Atlantic Reporter ]]></creditLine>
+            <guid isPermaLink="false">1.5603379</guid>
+    <pubDate>Tue, 28 Sep 2021 11:32:00 -0300</pubDate>
+        <ctv:lastModifiedDate>Tue, 28 Sep 2021 12:25:17 -0300</ctv:lastModifiedDate>  
+        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.4983083.1592075721!/httpImage/image.png_gen/derivatives/landscape_300/image.png"><![CDATA[Rodney Levi pictured in an undated photo (Facebook)]]></enclosure>
+		 		         </item>
+              <item>
+    <title><![CDATA[Crown wraps case against first six inmates accused in vicious N.S. jail assault]]></title>
+    <link>https://atlantic.ctvnews.ca/crown-wraps-case-against-first-six-inmates-accused-in-vicious-n-s-jail-assault-1.5603451</link>
+    <description><![CDATA[The Crown closed its case Tuesday in the first of three trials involving Nova Scotia inmates accused of conspiring and attempting to murder a newly arrived prisoner.]]></description>
+    <author/>
+          <dc:creator><![CDATA[The Canadian Press]]></dc:creator>
+              <creditLine><![CDATA[Staff]]></creditLine>
+            <guid isPermaLink="false">1.5603451</guid>
+    <pubDate>Tue, 28 Sep 2021 12:02:00 -0300</pubDate>
+        <ctv:lastModifiedDate>Tue, 28 Sep 2021 14:39:34 -0300</ctv:lastModifiedDate>  
+        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5603455.1632841246!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[Crown prosecutor Rick Woodburn, right, talks with Andrew Miller, a senior corrections official at the trial for six of the 15 inmates accused of participating in a vicious assault of another prisoner at a Nova Scotia jail, at a convention centre in Halifax on Wednesday, Sept. 22, 2021. The victim sustained life-threatening injuries in the Dec. 2, 2019 attack at the Central Nova Scotia Correctional Facility in Dartmouth. THE CANADIAN PRESS/Andrew Vaughan ]]></enclosure>
 		 		         </item>
               <item>
     <title><![CDATA['Residents are dying alone,' nursing home workers ask for wage increase to help staffing crisis]]></title>
@@ -50,88 +122,16 @@
         			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5602886.1632791695!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[The president of the New Brunswick Council of Nursing Home Unions, which represents 51 of 70 nursing homes in the province, says several locations across the province have been operating with 50 per cent of their staff or less, which doesn't allow them to prioritize those in their care.]]></enclosure>
 		 		         </item>
               <item>
-    <title><![CDATA[N.S to release daily details on schools affected by COVID-19 starting Tuesday]]></title>
-    <link>https://atlantic.ctvnews.ca/n-s-to-release-daily-details-on-schools-affected-by-covid-19-starting-tuesday-1.5602795</link>
-    <description><![CDATA[Elizabeth Guitard kept her kids home from school Monday, concerned over the growing list of COVID-19 exposures linked to Nova Scotia schools.]]></description>
+    <title><![CDATA[One person dies in fire at New Waterford, N.S. apartment building]]></title>
+    <link>https://atlantic.ctvnews.ca/one-person-dies-in-fire-at-new-waterford-n-s-apartment-building-1.5603491</link>
+    <description><![CDATA[One person has died as a result of a fire at an apartment building in New Waterford, N.S.]]></description>
     <author/>
-          <dc:creator><![CDATA[Heidi Petracek]]></dc:creator>
-              <creditLine><![CDATA[CTV News Atlantic Reporter]]></creditLine>
-            <guid isPermaLink="false">1.5602795</guid>
-    <pubDate>Mon, 27 Sep 2021 21:07:40 -0300</pubDate>
-        <ctv:lastModifiedDate>Mon, 27 Sep 2021 21:07:40 -0300</ctv:lastModifiedDate>  
-        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5602516.1632778805!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[According to one parent, at least one school affected by multiple exposures is now taking extra measures. One parent whose child attends Halifax West says she received four separate notifications about cases connected to the school.]]></enclosure>
-		 		         </item>
-              <item>
-    <title><![CDATA[Gathering criticism: fears Dal party may lead to COVID-19 surge]]></title>
-    <link>https://atlantic.ctvnews.ca/gathering-criticism-fears-dal-party-may-lead-to-covid-19-surge-1.5602868</link>
-    <description><![CDATA[Reaction continues to roll-in tonight from a raucous street party near Dalhousie University in Halifax over the weekend, but there are fears the long-term consequences could affect the entire province.]]></description>
-    <author/>
-          <dc:creator><![CDATA[Bruce Frisko]]></dc:creator>
-              <creditLine><![CDATA[CTV News Atlantic Reporter and Host]]></creditLine>
-            <guid isPermaLink="false">1.5602868</guid>
-    <pubDate>Mon, 27 Sep 2021 21:55:09 -0300</pubDate>
-        <ctv:lastModifiedDate>Mon, 27 Sep 2021 21:55:09 -0300</ctv:lastModifiedDate>  
-        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5602480.1632777955!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[]]></enclosure>
-		 		         </item>
-              <item>
-    <title><![CDATA[Volunteers surge in N.S. to help with testing as fourth wave of COVID-19 arrives]]></title>
-    <link>https://atlantic.ctvnews.ca/volunteers-surge-in-n-s-to-help-with-testing-as-fourth-wave-of-covid-19-arrives-1.5602748</link>
-    <description><![CDATA[As a fourth wave crashes into communities across Canada, volunteers are helping to build part of Nova Scotia's protective wall.]]></description>
-    <author/>
-          <dc:creator><![CDATA[Sarah Plowman]]></dc:creator>
-              <creditLine><![CDATA[CTV News Atlantic Video Journalist]]></creditLine>
-            <guid isPermaLink="false">1.5602748</guid>
-    <pubDate>Mon, 27 Sep 2021 20:30:00 -0300</pubDate>
-        <ctv:lastModifiedDate>Mon, 27 Sep 2021 20:33:32 -0300</ctv:lastModifiedDate>  
-        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.4893141.1586730911!/httpImage/image.png_gen/derivatives/landscape_300/image.png"><![CDATA[]]></enclosure>
-		 		         </item>
-              <item>
-    <title><![CDATA[Halifax mayor says rowdy university partiers lacked common sense in light of COVID-19]]></title>
-    <link>https://atlantic.ctvnews.ca/halifax-mayor-says-rowdy-university-partiers-lacked-common-sense-in-light-of-covid-19-1.5602131</link>
-    <description><![CDATA[Dalhousie University students who attended a massive party that violated COVID-19 protocols should use more common sense -- and stay away from classes for one week and get tested, authorities say.]]></description>
-    <author/>
-          <dc:creator><![CDATA[The Canadian Press]]></dc:creator>
+          <dc:creator><![CDATA[CTVNewsAtlantic.ca]]></dc:creator>
               <creditLine><![CDATA[Staff]]></creditLine>
-            <guid isPermaLink="false">1.5602131</guid>
-    <pubDate>Mon, 27 Sep 2021 14:28:00 -0300</pubDate>
-        <ctv:lastModifiedDate>Mon, 27 Sep 2021 21:55:24 -0300</ctv:lastModifiedDate>  
-        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5601021.1632663054!/httpImage/image.png_gen/derivatives/landscape_300/image.png"><![CDATA[]]></enclosure>
-		 		         </item>
-              <item>
-    <title><![CDATA[Not everyone feels new virtual care pilot program in Nova Scotia will work for them]]></title>
-    <link>https://atlantic.ctvnews.ca/not-everyone-feels-new-virtual-care-pilot-program-in-nova-scotia-will-work-for-them-1.5602311</link>
-    <description><![CDATA[There are more than 70,000 people without a family doctor in Nova Scotia, but soon people in the province will have the option to see a physician virtually.]]></description>
-    <author/>
-          <dc:creator><![CDATA[Kyle Moore]]></dc:creator>
-              <creditLine><![CDATA[CTV News Atlantic Reporter]]></creditLine>
-            <guid isPermaLink="false">1.5602311</guid>
-    <pubDate>Mon, 27 Sep 2021 16:38:00 -0300</pubDate>
-        <ctv:lastModifiedDate>Mon, 27 Sep 2021 19:54:39 -0300</ctv:lastModifiedDate>  
-        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5597858.1632424023!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[The province is planning to spend $1.3 million to expand the virtual care pilot program to the health authority's central and eastern zones starting in December, after the program launched in the northern and western zones last spring.]]></enclosure>
-		 		         </item>
-              <item>
-    <title><![CDATA[N.B. nursing home unions seek $4 per hour wage hike to address labour shortages]]></title>
-    <link>https://atlantic.ctvnews.ca/n-b-nursing-home-unions-seek-4-per-hour-wage-hike-to-address-labour-shortages-1.5602036</link>
-    <description><![CDATA[The New Brunswick Council of Nursing Home Unions is calling on the provincial government to increase wages for workers in long-term care homes in an effort to address a "crippling" staffing shortage that they say is leaving seniors with inadequate care.]]></description>
-    <author/>
-          <dc:creator><![CDATA[The Canadian Press]]></dc:creator>
-              <creditLine><![CDATA[Staff]]></creditLine>
-            <guid isPermaLink="false">1.5602036</guid>
-    <pubDate>Mon, 27 Sep 2021 13:37:00 -0300</pubDate>
-        <ctv:lastModifiedDate>Mon, 27 Sep 2021 22:19:49 -0300</ctv:lastModifiedDate>  
-        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.2801523.1456962998!/httpImage/image.png_gen/derivatives/landscape_300/image.png"><![CDATA[The New Brunswick Council of Nursing Home Unions is calling on the provincial government to increase wages for workers in long-term care homes by $4 per hour. (File photo)]]></enclosure>
-		 		         </item>
-              <item>
-    <title><![CDATA[DNA evidence ties blood of alleged jail-beating victim to clothing of N.S. inmates]]></title>
-    <link>https://atlantic.ctvnews.ca/dna-evidence-ties-blood-of-alleged-jail-beating-victim-to-clothing-of-n-s-inmates-1.5601985</link>
-    <description><![CDATA[Prosecutors in the trial of inmates accused of attempting to murder a prisoner in his Nova Scotia jail cell have introduced DNA evidence linking the victim's blood to three of the alleged assailants' clothing.]]></description>
-    <author/>
-          <dc:creator><![CDATA[The Canadian Press]]></dc:creator>
-              <creditLine><![CDATA[Staff]]></creditLine>
-            <guid isPermaLink="false">1.5601985</guid>
-    <pubDate>Mon, 27 Sep 2021 13:18:00 -0300</pubDate>
-        <ctv:lastModifiedDate>Mon, 27 Sep 2021 17:10:49 -0300</ctv:lastModifiedDate>  
-        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.3930826.1575423318!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[The Central Nova Scotia Correctional Facility yard is seen in Dartmouth on Tuesday, May 15, 2018.  (THE CANADIAN PRESS/Andrew Vaughan)]]></enclosure>
+            <guid isPermaLink="false">1.5603491</guid>
+    <pubDate>Tue, 28 Sep 2021 12:30:00 -0300</pubDate>
+        <ctv:lastModifiedDate>Tue, 28 Sep 2021 13:07:34 -0300</ctv:lastModifiedDate>  
+        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5603496.1632842972!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[]]></enclosure>
 		 		         </item>
         </channel>
 </rss>
