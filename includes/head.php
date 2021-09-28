@@ -26,5 +26,5 @@
 </head>
 
 <body>
-
+<?php include "includes/nav.php" ?>
 <?php include "includes/banner.php" ?>
