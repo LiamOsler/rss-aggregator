@@ -9,6 +9,7 @@ p{
 a{
     color: goldenrod;
 }
+
 a:hover{
     color: white;
 }
@@ -19,25 +20,18 @@ h1, h2, h3, h4{
 
 .navbar{
     position: fixed;
-    z-index: 2;
-    background-color: rgb(29, 29, 29);
     width: 100%;
+    z-index: 1;
+
+    visibility: hidden;
 }
 
-.navbar ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+.navbar-inverse .navbar-nav>li>a{
+    color: goldenrod;
 }
 
-
-.navbar li{
-    float: left;
-}
-
-.navbar a{
-    display: block;
-    padding: 8px;
+.navbar-inverse{
+    background-image: none;
 }
 
 .rss-item img{
@@ -59,10 +53,17 @@ h1, h2, h3, h4{
     float: left;
 }
 
-
-
 .jumbotron{
     background-color: #313131;
     opacity: 1;
     background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #4b4b4b 40px ), repeating-linear-gradient( #cccccc55, #363636 );
+}
+
+.feed-list{
+    display: inline-block;
+}
+
+.feed-list label{
+    color: white;
+    margin-right: 1em;
 }

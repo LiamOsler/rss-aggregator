@@ -1,28 +1,43 @@
 <?php include "includes/head.php"?>
+
+<!-- Read the list of feeds -->
+<?php
+    //Function to read the CSV file to a multidimensional array :
+    function readCSV($csv){
+        $file = fopen($csv, 'r');
+        while (!feof($file) ) {
+            $line[] = fgetcsv($file, 1024);
+        }
+        fclose($file);
+        return $line;
+    }
+
+    //Read a csv with the list of feeds to save locally:
+    $feed_list_csv = 'files/feedlist.csv';
+    $feed_list = readCSV($feed_list_csv);
+
+?>
+
 <div class ="container">
+    <div class ="row">
+        <div class = "col-md-12">
+        <?php
+            foreach($feed_list as $feed_source){
+                $div_label = $feed_source[0];
+                $div_id = str_replace(" ", "_", $feed_source[0] . "_toggle");
+                //echo $div_id;
+        ?>
+            <div class = "feed-list">
+                <input type="checkbox" id="<?php echo $div_id?>" name="<?php echo $div_id?>" value="<?php echo $div_id?>" onclick="toggle()" checked>
+                <label for="<?php echo $div_id?>"><?php echo $div_label?></label><br>
+            </div>
+        <?php
+            }
+        ?>
+        </div>
+    </div>
         <!-- Load the RSS contents: -->
         <?php
-
-            function sanitizeString($stringInput){
-                $sanitizedString = htmlspecialchars(stripslashes(trim($stringInput)));
-                
-                return $sanitizedString;
-            }
-
-            //Function to read the CSV file to a multidimensional array :
-            function readCSV($csv){
-                $file = fopen($csv, 'r');
-                while (!feof($file) ) {
-                    $line[] = fgetcsv($file, 1024);
-                }
-                fclose($file);
-                return $line;
-            }
-
-            //Read a csv with the list of feeds to save locally:
-            $feed_list_csv = 'files/feedlist.csv';
-            $feed_list = readCSV($feed_list_csv);
-
             //Create a counter keep track of items:
             $i = 0;
 
@@ -30,16 +45,19 @@
             foreach($feed_list as $feed_source){
                 $j = 0;
                 //Generate a string with the file path to the local copy of the RSS feed:
-                $local_copy_string = "files/" . $feed_list[$i][0] . ".xml";
+                $local_copy_string = "files/" . $feed_source[0] . ".xml";
                 $local_copy_string = str_replace(" ", "_", $local_copy_string);
 
                 //Load the RSS feed:
                 $rss_feed = simplexml_load_file($local_copy_string);
                 ?>
+
+                <div id = "<?php echo str_replace(" ", "_", $feed_list[$i][0]);?>">
                 <!-- Echo the title of the feed (from the CSV file) -->
                 <div class = "row">
                     <div class = "col-md-12">
                         <h2>
+                            <br>
                             <?php echo $feed_list[$i][0] ?>
                         </h2>
                     </div>
@@ -75,10 +93,12 @@
                 //Close foreach ($rss_feed->channel->item as $feed_item)
                 //Increment the feed counter:
                 $i++;
+                echo "</div>"; 
             } //Close foreach($feed_list as $feed_source)
         ?>
     </div>
 
 
-
 <?php include "includes/foot.php"?>
+
+<script src="scripts/scripts.js"></script>
