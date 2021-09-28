@@ -1,9 +1,13 @@
 # RSS Aggregator Webite
+
+# Purpose
+Retrieves
+
 Saves a list of RSS feeds to a copy on the local server
 
-# Project File Structure:
+## Project File Structure:
 
-```{bash}
+```
 rss-aggregator
 ├── README.md
 ├── css
