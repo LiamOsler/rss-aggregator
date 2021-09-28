@@ -28,11 +28,15 @@ rss-aggregator
 │   ├── The_Star_Halifax.xml
 │   └── feedlist.csv
 ├── includes
+│   ├── banner.php
 │   ├── foot.php
 │   └── head.php
 ├── index.php
+├── screenshots
+│   └── Screen1.bmp
 └── scripts
-    └── retrieve-feeds.php
+    ├── retrieve-feeds.php
+    └── scripts.jsp
 ```
 
 ## File samples:
