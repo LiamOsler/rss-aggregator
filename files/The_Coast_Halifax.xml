@@ -15,7 +15,7 @@
       <managingEditor>editor@thecoast.ca (The Coast Halifax Editor)</managingEditor>
       <webMaster>website@thecoast.ca (The Coast Halifax Webmaster)</webMaster>
       <pubDate>Tue, 28 Sep 2021 00:00:01 -0300</pubDate>
-      <lastBuildDate>Tue, 28 Sep 2021 15:00:00 -0300</lastBuildDate>
+      <lastBuildDate>Tue, 28 Sep 2021 16:00:00 -0300</lastBuildDate>
       <generator>Foundation</generator>
       <docs>https://blogs.law.harvard.edu/tech/rss</docs>
       
@@ -33,6 +33,60 @@
         </image>
       
 
+      
+        <item>
+    <title>
+      
+        Restaurants on POV: “How do we know what a vaccine certificate from Alberta looks like?”
+      
+    </title>
+    <link>https://www.thecoast.ca/halifax/restaurants-on-pov-how-do-we-know-what-a-vaccine-certificate-from-alberta-looks-like/Content?oid=27274667</link>
+    <guid isPermaLink="true">https://www.thecoast.ca/halifax/restaurants-on-pov-how-do-we-know-what-a-vaccine-certificate-from-alberta-looks-like/Content?oid=27274667</guid>
+
+    
+    
+      <dc:creator>Lyndsay Armstrong</dc:creator>
+    
+
+    
+
+    <description>
+      
+      
+
+      &lt;img src="https://media1.fdncms.com/thecoast/imager/u/blog/27274674/mashup.png" width="654" height="654" /&gt;
+      Nova Scotia's proof of vaccination program is supposed to start Oct 4, but there are still lots of unknowns for those who’ll be enforcing the policy.
+              
+              “Hurry up and wait” is the name of the game for Nova Scotia restaurants trying to plan for Monday’s start of the provincial proof of vaccination policy. Luc Erjavec, the Atlantic Canada vice president of Restaurants Canada, says the industry is left with a number of concerns and questions less than a week out from the new policy’s planned October 4 implementation date.…
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">COVID-19</category>
+    
+
+    
+
+    
+      <enclosure url="https://media1.fdncms.com/thecoast/imager/u/16x9-m/27274674/mashup.png" length="0" type="image/png"/>
+    
+
+
+    
+    <comments>
+      https://www.thecoast.ca/halifax/restaurants-on-pov-how-do-we-know-what-a-vaccine-certificate-from-alberta-looks-like/Content?oid=27274667&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      https://www.thecoast.ca/halifax/Rss.xml?id=comments&amp;oid=27274667
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Tue, 28 Sep 2021 15:51:10 -0300</pubDate>
+    <source url="https://www.thecoast.ca">The Coast Halifax</source>
+  </item>
       
         <item>
     <title>
@@ -1332,60 +1386,6 @@
     </slash:comments>
 
     <pubDate>Fri, 17 Sep 2021 07:18:00 -0300</pubDate>
-    <source url="https://www.thecoast.ca">The Coast Halifax</source>
-  </item>
-      
-        <item>
-    <title>
-      
-        COVID cases and news for Nova Scotia on Thursday, Sep 16
-      
-    </title>
-    <link>https://www.thecoast.ca/halifax/covid-cases-and-news-for-nova-scotia-on-thursday-sep-16/Content?oid=27206604</link>
-    <guid isPermaLink="true">https://www.thecoast.ca/halifax/covid-cases-and-news-for-nova-scotia-on-thursday-sep-16/Content?oid=27206604</guid>
-
-    
-    
-      <dc:creator>Team Coast</dc:creator>
-    
-
-    
-
-    <description>
-      
-      
-
-      &lt;img src="https://media2.fdncms.com/thecoast/imager/u/blog/27206862/daily_covid_nova_scotia_news_header_th3.png" width="250" height="124" style="display:block; float:right;" /&gt;
-      Information including charts, new infections and our daily map of community COVID-19.
-              
-              NOTE: This day is now over. Click for the latest on COVID-19 from The Coast.…
-      
-    </description>
-
-    
-    
-      <category domain="foundation:category">COVID-19</category>
-    
-
-    
-
-    
-      <enclosure url="https://media2.fdncms.com/thecoast/imager/u/16x9-m/27206862/daily_covid_nova_scotia_news_header_th3.png" length="0" type="image/png"/>
-    
-
-
-    
-    <comments>
-      https://www.thecoast.ca/halifax/covid-cases-and-news-for-nova-scotia-on-thursday-sep-16/Content?oid=27206604&amp;show=comments#readerComments
-    </comments>
-    <wfw:commentRss>
-      https://www.thecoast.ca/halifax/Rss.xml?id=comments&amp;oid=27206604
-    </wfw:commentRss>
-    <slash:comments>
-      0
-    </slash:comments>
-
-    <pubDate>Thu, 16 Sep 2021 15:50:26 -0300</pubDate>
     <source url="https://www.thecoast.ca">The Coast Halifax</source>
   </item>
       

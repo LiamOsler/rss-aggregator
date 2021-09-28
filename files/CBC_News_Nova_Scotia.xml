@@ -9,7 +9,7 @@
       ]]>
     </description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 28 Sep 2021 13:01:54 EDT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Sep 2021 15:01:04 EDT</lastBuildDate>
     <copyright><![CDATA[Copyright: (C) Canadian Broadcasting	Corporation,							http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
         <docs><![CDATA[http://www.cbc.ca/rss/]]></docs>
     <image>
@@ -31,6 +31,33 @@
       </description>
     </item>
     <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
+      <title><![CDATA[CBRM to consider offering grants to local artists]]></title>
+            <link>https://www.cbc.ca/news/canada/nova-scotia/cbrm-grants-to-artists-1.6192431?cmp=rss</link>
+      <guid isPermaLink="false">1.6192431</guid>
+      <pubDate>Tue, 28 Sep 2021 15:01:04 EDT</pubDate>
+                        <author>Tom Ayers</author>
+      										      <category>News/Canada/Nova Scotia</category>
+      <description>
+        <![CDATA[
+                        <img src='https://i.cbc.ca/1.6192445.1632855422!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/cbrm-councillor-glenn-paruch.jpg' alt='CBRM councillor Glenn Paruch' width='460' title='Cape Breton Regional Municipality Coun. Glenn Paruch, right, says it&#39;s a &#39;no-brainer&#39; for council to support local artists with grants to help them access other funding.' height='259' />                <p>Cape Breton regional council is considering a proposal to offer grants of between $500 and $2,500 for local artists to help them access provincial and federal funding.</p>
+        ]]>
+      </description>
+    </item>
+    <item cbc:type="media" cbc:deptid="2.656" cbc:syndicate="true">
+      <title><![CDATA[Sound Off: Will MLAs play nice after big changes in the House of Assembly?]]></title>
+            <link>https://www.cbc.ca/news/canada/nova-scotia/sound-off-will-mlas-play-nice-after-big-changes-in-the-house-of-assembly-1.6192471?cmp=rss</link>
+      <guid isPermaLink="false">1.6192471</guid>
+      <pubDate>Tue, 28 Sep 2021 14:46:00 EDT</pubDate>
+                  <author/>
+      										      <category>News/Canada/Nova Scotia</category>
+      <description>
+        <![CDATA[
+                        <img src='https://i.cbc.ca/1.6192471.1632855302!/httpImage/image.jpg_gen/derivatives/16x9_460/image.jpg' alt='Sound Off: Will MLAs play nice after big changes in the House of Assembly?' width='460' title='A new government. A new official opposition.
+Here&#39;s what you need to know about Nova Scotia&#39;s political scene is shaping up before the fall sitting.' height='259' />                <p>A new government. A new official opposition. Here's what you need to know about Nova Scotia's political scene is shaping up before the fall sitting.</p>
+        ]]>
+      </description>
+    </item>
+    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
       <title><![CDATA[No injuries reported after floatplane forced to land in lake near Halifax airport]]></title>
             <link>https://www.cbc.ca/news/canada/nova-scotia/turf-lake-plane-crash-halifax-stanfield-international-airport-1.6192230?cmp=rss</link>
       <guid isPermaLink="false">1.6192230</guid>
@@ -39,7 +66,7 @@
       										      <category>News/Canada/Nova Scotia</category>
       <description>
         <![CDATA[
-                        <img src='https://i.cbc.ca/1.6192324.1632850636!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/turf-lake-cessna-plane.JPG' alt='Turf Lake Cessna plane' width='460' title='The plane that was forced to land in Turf Lake, N.S., is a Cessna 206.' height='259' />                <p>There are no injuries after a floatplane experiencing altitude problems was forced to land in Turf Lake, near the Halifax Stanfield International Airport.</p>
+                        <img src='https://i.cbc.ca/1.6192442.1632854234!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/cessna-206-turf-lake.jpg' alt='Cessna 206 Turf Lake' width='460' title='The plane that was forced to land in Turf Lake, N.S., is a Cessna 206.' height='259' />                <p>There are no injuries after a floatplane experiencing altitude problems was forced to land in Turf Lake, near the Halifax Stanfield International Airport.</p>
         ]]>
       </description>
     </item>
@@ -52,7 +79,7 @@
       										      <category>News/Canada/Nova Scotia</category>
       <description>
         <![CDATA[
-                        <img src='https://i.cbc.ca/1.5358253.1632846353!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/cbrm-fire-logo.jpg' alt='CBRM fire logo' width='460' title='Cape Breton regional police say one persn is dead following a fire at a residence in New Waterford early Tuesday morning.' height='259' />                <p>Cape Breton Regional Police say one person is dead following a fire at a residence in New Waterford, N.S., early Tuesday.</p>
+                        <img src='https://i.cbc.ca/1.6192342.1632851198!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/new-waterford-fatal-fire.jpg' alt='New Waterford fatal fire' width='460' title='Police blocked access to a residence in New Waterford on Tuesday after one person was found dead inside the building in an early morning fire.' height='259' />                <p>Cape Breton Regional Police say one person is dead following a fire at a residence in New Waterford, N.S., early Tuesday.</p>
         ]]>
       </description>
     </item>
@@ -248,32 +275,6 @@
       <description>
         <![CDATA[
                         <img src='https://i.cbc.ca/1.6110405.1626822135!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/antigen-testing-kits.jpg' alt='Antigen testing kits' width='460' title='This pilot is part of the provinces action plan to prevent the spread of COVID-19. ' height='259' />                <p>With Nova Scotia in the midst of the fourth wave of the COVID-19 pandemic, volunteers are needed to help assemble 300,000 take-home COVID-19 testing kits over the coming weeks to deal with an expected increase in testing needs.</p>
-        ]]>
-      </description>
-    </item>
-    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
-      <title><![CDATA[Last-minute nuptials lead to wedding boom in Nova Scotia]]></title>
-            <link>https://www.cbc.ca/news/canada/nova-scotia/wedding-boom-nova-scotia-pandemic-1.6189146?cmp=rss</link>
-      <guid isPermaLink="false">1.6189146</guid>
-      <pubDate>Mon, 27 Sep 2021 05:00:00 EDT</pubDate>
-                        <author>Brittany Wentzell</author>
-      										      <category>News/Canada/Nova Scotia</category>
-      <description>
-        <![CDATA[
-                        <img src='https://i.cbc.ca/1.6189169.1632519941!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/amy-and-nick-macneil.jpg' alt='Amy and Nick MacNeil' width='460' title='Amy and Nick MacNeil in front of the Big Fiddle in downtown Sydney' height='259' />                <p>Wedding professionals had an unexpectedly busy season thanks in part to some rushed bookings.</p>
-        ]]>
-      </description>
-    </item>
-    <item cbc:type="story" cbc:deptid="2.656" cbc:syndicate="true">
-      <title><![CDATA[Dalhousie University condemns 'reckless' behaviour of students after weekend street parties]]></title>
-            <link>https://www.cbc.ca/news/canada/nova-scotia/dalhousie-condemns-behaviour-students-street-parties-1.6190191?cmp=rss</link>
-      <guid isPermaLink="false">1.6190191</guid>
-      <pubDate>Sun, 26 Sep 2021 13:34:06 EDT</pubDate>
-                        <author>Vernon Ramesar</author>
-      										      <category>News/Canada/Nova Scotia</category>
-      <description>
-        <![CDATA[
-                        <img src='https://i.cbc.ca/1.6190086.1632768453!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_460/jennings-street-gathering.jpeg' alt='Jennings Street gathering' width='460' title='Halifax police say thousands of people attended the Saturday evening gathering.' height='259' />                <p>Dalhousie University is condemning the actions of students who took part in large street parties in Halifax over the weekend, and says it is pursuing disciplinary action.</p>
         ]]>
       </description>
     </item>

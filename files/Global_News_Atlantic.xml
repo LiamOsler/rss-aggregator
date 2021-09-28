@@ -6,7 +6,7 @@
 	<atom:link href="https://globalnews.ca/halifax/feed/" rel="self" type="application/rss+xml"/>
 	<link>https://globalnews.ca</link>
 	<description/>
-	<lastBuildDate>Tue, 28 Sep 2021 18:24:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Sep 2021 18:42:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -14,6 +14,37 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 <site xmlns="com-wordpress:feed-additions:1">176892389</site>	<item>
+		<title>Halifax to open mobile shower for people experiencing homelessness</title>
+		<link>https://globalnews.ca/news/8227408/halifax-mobile-shower-homeless/</link>
+					<comments>https://globalnews.ca/news/8227408/halifax-mobile-shower-homeless/#respond</comments>
+		
+		<dc:creator><![CDATA[Aya Al-Hakim]]></dc:creator>
+		<pubDate>Tue, 28 Sep 2021 18:37:16 +0000</pubDate>
+				<category><![CDATA[Canada]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Affordable Housing Association]]></category>
+		<category><![CDATA[Halifax]]></category>
+		<category><![CDATA[Halifax homelessness]]></category>
+		<category><![CDATA[Halifax housing crisis]]></category>
+		<category><![CDATA[Halifax Regional Council]]></category>
+		<category><![CDATA[Homelessness]]></category>
+		<category><![CDATA[mobile shower]]></category>
+		<guid isPermaLink="false">https://globalnews.ca/?p=8227408</guid>
+
+					<description><![CDATA[Halifax Regional Council passed a motion on Tuesday that would have staff identify a location to house the shower trailer. ]]></description>
+										<content:encoded><![CDATA[Halifax Regional Council passed a motion on Tuesday that would have staff identify a location to house the shower trailer. ]]></content:encoded>
+					
+					<wfw:commentRss>https://globalnews.ca/news/8227408/halifax-mobile-shower-homeless/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8227408</post-id><enclosure url="https://globalnews.ca/wp-content/uploads/2019/11/led-shower-head.png?w=563&amp;h=480&amp;crop=1" length="30203000" type="image/jpeg"/>
+		<media:thumbnail url="https://globalnews.ca/wp-content/uploads/2019/11/led-shower-head.png"/>
+		<media:content url="https://globalnews.ca/wp-content/uploads/2019/11/led-shower-head.png" medium="image">
+			<media:title type="html">LED shower head</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>RCMP end search for two Labrador fishermen reported missing more than a week ago</title>
 		<link>https://globalnews.ca/news/8227450/rcmp-end-search-labrador-missing-fishermen/</link>
 					<comments>https://globalnews.ca/news/8227450/rcmp-end-search-labrador-missing-fishermen/#respond</comments>
@@ -202,26 +233,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">8225168</post-id><enclosure url="https://i2.wp.com/media.globalnews.ca/videostatic/news/29odyci2r2-ycx0dvugyi/TILE_at_6.jpg?w=150&amp;quality=70&amp;strip=all" length="25295000" type="image/jpeg"/>	</item>
-		<item>
-		<title>Inquiry into N.S. mass killing holds first of four community open houses</title>
-		<link>https://globalnews.ca/video/8225151/inquiry-into-n-s-mass-killing-holds-first-of-four-community-open-houses/</link>
-		
-		<dc:creator><![CDATA[Alicia Draus]]></dc:creator>
-		<pubDate>Mon, 27 Sep 2021 21:21:18 +0000</pubDate>
-				<category><![CDATA[Canada]]></category>
-		<category><![CDATA[Crime]]></category>
-		<category><![CDATA[Mass Casualty Commission]]></category>
-		<category><![CDATA[Mass Shooting Inquiry]]></category>
-		<category><![CDATA[nova scotia shooting]]></category>
-		<category><![CDATA[NS Shooting]]></category>
-		<category><![CDATA[Top News]]></category>
-		<guid isPermaLink="false">https://globalnews.ca/video/8225151/inquiry-into-n-s-mass-killing-holds-first-of-four-community-open-houses/</guid>
-
-					<description><![CDATA[Hearings for the public inquiry into the mass killing that claimed the lives of 22 people in April 2020 will be getting underway in Halifax next month Before that happens, the Mass Casualty Commission is hosting four open houses, giving the public a chance to learn more about the process and speak with investigators. Alicia...]]></description>
-										<content:encoded><![CDATA[Hearings for the public inquiry into the mass killing that claimed the lives of 22 people in April 2020 will be getting underway in Halifax next month Before that happens, the Mass Casualty Commission is hosting four open houses, giving the public a chance to learn more about the process and speak with investigators. Alicia...]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">8225151</post-id><enclosure url="https://i1.wp.com/media.globalnews.ca/videostatic/news/o0d10p86tt-nm4zhx0f81/web_MCC_OPEN_HOUSE_DRAUS_.jpg?w=150&amp;quality=70&amp;strip=all" length="25294000" type="image/jpeg"/>	</item>
 	</channel>
 </rss>

@@ -6,7 +6,7 @@
 <description>
         
   </description>
-<lastBuildDate>Tue, 28 Sep 2021 14:31:00 -0300</lastBuildDate>
+<lastBuildDate>Tue, 28 Sep 2021 16:01:00 -0300</lastBuildDate>
   <image>
 <title><![CDATA[CTV News Atlantic - Public RSS]]></title>
 <link>https://atlantic.ctvnews.ca/rss/ctv-news-atlantic-public-rss-1.822315</link>
@@ -14,6 +14,30 @@
     </image>
   <language>en</language>
 <copyright>Copyright Bellmedia</copyright>           <item>
+    <title><![CDATA[New Brunswick reports two new deaths related to COVID-19, 68 new cases on Tuesday]]></title>
+    <link>https://atlantic.ctvnews.ca/new-brunswick-reports-two-new-deaths-related-to-covid-19-68-new-cases-on-tuesday-1.5603339</link>
+    <description><![CDATA[Health officials in New Brunswick are reporting 68 new cases of COVID-19 on Tuesday, along with 86 recoveries, as the total number of active cases in the province drops to 632.]]></description>
+    <author/>
+          <dc:creator><![CDATA[Allan April]]></dc:creator>
+              <creditLine><![CDATA[CTVNewsAtlantic.ca writer]]></creditLine>
+            <guid isPermaLink="false">1.5603339</guid>
+    <pubDate>Tue, 28 Sep 2021 15:19:00 -0300</pubDate>
+        <ctv:lastModifiedDate>Tue, 28 Sep 2021 15:40:34 -0300</ctv:lastModifiedDate>  
+        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5519878.1626992758!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[]]></enclosure>
+		 		         </item>
+              <item>
+    <title><![CDATA[Nova Scotia reports 97th COVID-19 related death, 32 new cases on Tuesday]]></title>
+    <link>https://atlantic.ctvnews.ca/nova-scotia-reports-97th-covid-19-related-death-32-new-cases-on-tuesday-1.5603338</link>
+    <description><![CDATA[Health officials in Nova Scotia are reporting the province's 97th COVID-19 related death, as well as 32 new cases and 28 recoveries, as 205 active cases remain in the province.]]></description>
+    <author/>
+          <dc:creator><![CDATA[Allan April]]></dc:creator>
+              <creditLine><![CDATA[CTVNewsAtlantic.ca writer]]></creditLine>
+            <guid isPermaLink="false">1.5603338</guid>
+    <pubDate>Tue, 28 Sep 2021 16:01:00 -0300</pubDate>
+        <ctv:lastModifiedDate>Tue, 28 Sep 2021 16:01:59 -0300</ctv:lastModifiedDate>  
+        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5487485.1624806052!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[THE CANADIAN PRESS/Nathan Denette ]]></enclosure>
+		 		         </item>
+              <item>
     <title><![CDATA[N.S. to release daily details on schools affected by COVID-19 starting Tuesday]]></title>
     <link>https://atlantic.ctvnews.ca/n-s-to-release-daily-details-on-schools-affected-by-covid-19-starting-tuesday-1.5602795</link>
     <description><![CDATA[Elizabeth Guitard kept her kids home from school Monday, concerned over the growing list of COVID-19 exposures linked to Nova Scotia schools.]]></description>
@@ -70,8 +94,20 @@
               <creditLine><![CDATA[CTV News Atlantic Chief Meteorologist]]></creditLine>
             <guid isPermaLink="false">1.5603657</guid>
     <pubDate>Tue, 28 Sep 2021 14:31:00 -0300</pubDate>
-        <ctv:lastModifiedDate>Tue, 28 Sep 2021 14:47:20 -0300</ctv:lastModifiedDate>  
+        <ctv:lastModifiedDate>Tue, 28 Sep 2021 15:46:07 -0300</ctv:lastModifiedDate>  
         			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5542980.1628701064!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[Varied weather conditions this week including periods of rain and showers as a number of slow moving weather systems move into the Maritimes. (THE CANADIAN PRESS/Darren Calabrese)]]></enclosure>
+		 		         </item>
+              <item>
+    <title><![CDATA['Flames were shooting through the roof': Early morning fire leaves one person dead in New Waterford, N.S. ]]></title>
+    <link>https://atlantic.ctvnews.ca/flames-were-shooting-through-the-roof-early-morning-fire-leaves-one-person-dead-in-new-waterford-n-s-1.5603491</link>
+    <description><![CDATA[Miner Avenue in New Waterford, N.S. was blocked with fire trucks Tuesday morning as crews worked to extinguish a fire in a small apartment complex.]]></description>
+    <author/>
+          <dc:creator><![CDATA[Kyle Moore]]></dc:creator>
+              <creditLine><![CDATA[CTV News Atlantic Reporter]]></creditLine>
+            <guid isPermaLink="false">1.5603491</guid>
+    <pubDate>Tue, 28 Sep 2021 12:30:00 -0300</pubDate>
+        <ctv:lastModifiedDate>Tue, 28 Sep 2021 15:46:02 -0300</ctv:lastModifiedDate>  
+        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5603496.1632842972!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[]]></enclosure>
 		 		         </item>
               <item>
     <title><![CDATA[RCMP end search for two Labrador fishermen reported missing more than a week ago]]></title>
@@ -96,42 +132,6 @@
     <pubDate>Tue, 28 Sep 2021 11:32:00 -0300</pubDate>
         <ctv:lastModifiedDate>Tue, 28 Sep 2021 12:25:17 -0300</ctv:lastModifiedDate>  
         			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.4983083.1592075721!/httpImage/image.png_gen/derivatives/landscape_300/image.png"><![CDATA[Rodney Levi pictured in an undated photo (Facebook)]]></enclosure>
-		 		         </item>
-              <item>
-    <title><![CDATA[Crown wraps case against first six inmates accused in vicious N.S. jail assault]]></title>
-    <link>https://atlantic.ctvnews.ca/crown-wraps-case-against-first-six-inmates-accused-in-vicious-n-s-jail-assault-1.5603451</link>
-    <description><![CDATA[The Crown closed its case Tuesday in the first of three trials involving Nova Scotia inmates accused of conspiring and attempting to murder a newly arrived prisoner.]]></description>
-    <author/>
-          <dc:creator><![CDATA[The Canadian Press]]></dc:creator>
-              <creditLine><![CDATA[Staff]]></creditLine>
-            <guid isPermaLink="false">1.5603451</guid>
-    <pubDate>Tue, 28 Sep 2021 12:02:00 -0300</pubDate>
-        <ctv:lastModifiedDate>Tue, 28 Sep 2021 14:39:34 -0300</ctv:lastModifiedDate>  
-        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5603455.1632841246!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[Crown prosecutor Rick Woodburn, right, talks with Andrew Miller, a senior corrections official at the trial for six of the 15 inmates accused of participating in a vicious assault of another prisoner at a Nova Scotia jail, at a convention centre in Halifax on Wednesday, Sept. 22, 2021. The victim sustained life-threatening injuries in the Dec. 2, 2019 attack at the Central Nova Scotia Correctional Facility in Dartmouth. THE CANADIAN PRESS/Andrew Vaughan ]]></enclosure>
-		 		         </item>
-              <item>
-    <title><![CDATA['Residents are dying alone,' nursing home workers ask for wage increase to help staffing crisis]]></title>
-    <link>https://atlantic.ctvnews.ca/residents-are-dying-alone-nursing-home-workers-ask-for-wage-increase-to-help-staffing-crisis-1.5602883</link>
-    <description><![CDATA[During a virtual news conference on Monday, the union representing workers in many of New Brunswick's nursing homes is urging premier Blaine Higgs to fix the current "staffing crisis" in nursing homes across the province.]]></description>
-    <author/>
-          <dc:creator><![CDATA[Jennifer Basa]]></dc:creator>
-              <creditLine><![CDATA[Video Journalist]]></creditLine>
-            <guid isPermaLink="false">1.5602883</guid>
-    <pubDate>Mon, 27 Sep 2021 22:19:04 -0300</pubDate>
-        <ctv:lastModifiedDate>Mon, 27 Sep 2021 22:19:04 -0300</ctv:lastModifiedDate>  
-        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5602886.1632791695!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[The president of the New Brunswick Council of Nursing Home Unions, which represents 51 of 70 nursing homes in the province, says several locations across the province have been operating with 50 per cent of their staff or less, which doesn't allow them to prioritize those in their care.]]></enclosure>
-		 		         </item>
-              <item>
-    <title><![CDATA[One person dies in fire at New Waterford, N.S. apartment building]]></title>
-    <link>https://atlantic.ctvnews.ca/one-person-dies-in-fire-at-new-waterford-n-s-apartment-building-1.5603491</link>
-    <description><![CDATA[One person has died as a result of a fire at an apartment building in New Waterford, N.S.]]></description>
-    <author/>
-          <dc:creator><![CDATA[CTVNewsAtlantic.ca]]></dc:creator>
-              <creditLine><![CDATA[Staff]]></creditLine>
-            <guid isPermaLink="false">1.5603491</guid>
-    <pubDate>Tue, 28 Sep 2021 12:30:00 -0300</pubDate>
-        <ctv:lastModifiedDate>Tue, 28 Sep 2021 14:58:03 -0300</ctv:lastModifiedDate>  
-        			           <enclosure url="https://www.ctvnews.ca/polopoly_fs/1.5603496.1632842972!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg"><![CDATA[]]></enclosure>
 		 		         </item>
         </channel>
 </rss>

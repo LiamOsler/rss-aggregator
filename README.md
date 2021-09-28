@@ -1,5 +1,7 @@
 # RSS Aggregator Webite
 
+![Screenshot](/screenshots/Screen1.bmp)
+
 # Purpose
 Saves a list of RSS feeds to a local .XML file (list is stored as feedlist.csv in the "files" folder of the project directory) when retrieve-feeds.php (saved in the "scripts" folder) is called by the client.
 
