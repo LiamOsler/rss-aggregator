@@ -80,3 +80,4 @@ Script that retrieves the list of RSS feeds and saves them as .XML files in the 
     }
 ?>
 ```
+Release 1.0
