@@ -1,8 +1,9 @@
 <nav class="navbar">
     <ul>
-        <li><a href="default.asp">Home</a></li>
-        <li><a href="news.asp">News</a></li>
-        <li><a href="contact.asp">Contact</a></li>
-        <li><a href="about.asp">About</a></li>
+        <li><a href="#cbc">CBC</a></li>
+        <li><a href="#ctv">CTV</a></li>
+        <li><a href="#global">Global News</a></li>
+        <li><a href="#coast">The Coast</a></li>
+        <li><a href="#coast">The Halifax Examiner</a></li>
     </ul>
 </nav>
