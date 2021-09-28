@@ -1,5 +1,5 @@
 <?php include "includes/head.php"?>
-<div class ="container-fluid">
+<div class ="container">
         <!-- Load the RSS contents: -->
         <?php
             //Function to read the CSV file to a multidimensional array :
@@ -31,14 +31,17 @@
                 ?>
                 <!-- Echo the title of the feed (from the CSV file) -->
                 <div class = "row">
-                    <h1>
-                        <?php echo $feed_list[$i][0] ?>
-                    </h1>
+                    <div class = "col-md-12">
+                        <h1>
+                            <?php echo $feed_list[$i][0] ?>
+                        </h1>
+                    </div>
                 </div>
 
 
                 <div class = "row " data-masonry='{"percentPosition": true }'>
                 <?php
+
                 //Go through each item in the feed and log it to the page:
                 foreach ($rss_feed->channel->item as $feed_item) {?> 
                     <div class = "rss-item col-lg-3 col-md-4 col-sm-6">
